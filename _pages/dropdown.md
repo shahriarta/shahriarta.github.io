@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # make it true to use the dropdown submenus
 dropdown: true
 children: 
     - title: publications
