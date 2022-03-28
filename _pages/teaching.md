@@ -46,7 +46,11 @@ table, th, td {
         <tr>
             <th>March 28th</th>
             <th>syllabus/logistics + intro</th>
-            <th>Chp 1 and 2 [Mesbahi2010Graph]; <a href="https://danjcalderone.github.io/teaching/network/GRAPHS.pdf" target="_blank">Slides</a></th>
+            <th>Chp 1 and 2 [Mesbahi2010Graph]; 
+                <a href="https://www.nature.com/articles/s41586-020-2923-3.pdf" target="_blank">Superspreaders of Covid-19</a>;
+                <a href="https://www.nature.com/articles/ncomms9414.pdf" target="_blank">Controllability of brain network</a>;
+                <a href="https://danjcalderone.github.io/teaching/network/GRAPHS.pdf" target="_blank">Algebraic Graph Theory Slides</a>
+                </th>
             <th>Linear Algebra [Horn2013Matrix]: left/right nullspace, rank-nullity theorem, Singular-value Decomposition (SVD), Moore–Penrose psuedo-inverse</th>
         </tr>
         <tr>
