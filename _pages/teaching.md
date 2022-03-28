@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Networked Dynamic Systems AA 597 A (Spring 2022)
+description: Networked Dynamic Systems AA 597 (Spring 2022 @ UW)
 nav: true
 ---
 
@@ -18,7 +18,10 @@ A networked dynamic system is a set of dynamical units that interact over a sign
 <p><b>Office Hours:</b> TBA </p>
 
 
-You can find the syllabus <a href="/assets/pdf/syllabus-Sp2022.pdf" target="_blank">here</a>.
+<p> You can find the syllabus <a href="/assets/pdf/syllabus-Sp2022.pdf" target="_blank">here</a>. </p>
+
+<p> You can also access an online copy of the main textbook <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71156690860001451" target="_blank">here</a>, provided by the UW library.</p>
+
 
 <style>
 table, th, td {
@@ -30,7 +33,7 @@ table, th, td {
 <table style="width:100%">
     <thead>
         <tr>
-            <th colspan="3"> <p style="font-size:20pt"> Course Schedule (Tentative)</p></th>
+            <th colspan="4"> <p style="font-size:20pt"> Course Schedule (Tentative)</p></th>
         </tr>
     </thead>
     <tbody>
@@ -38,36 +41,43 @@ table, th, td {
             <th>Date</th>
             <th>Topic</th>
             <th>Resources</th>
+            <th>Prerequisite</th>
         </tr>
         <tr>
             <th>March 28th</th>
             <th>syllabus/logistics + intro</th>
             <th>Chp 1 and 2 [Mesbahi2010Graph]; <a href="https://danjcalderone.github.io/teaching/network/GRAPHS.pdf" target="_blank">Slides</a></th>
+            <th>Linear Algebra [Horn2013Matrix]: left/right nullspace, rank-nullity theorem, Singular-value Decomposition (SVD), Moore–Penrose psuedo-inverse</th>
         </tr>
         <tr>
             <th>March 30th</th>
             <th>Introduction to algebraic graph theory</th>
             <th>Chp 8 [Godsil2001Algebraic]</th>
+            <th>Linear Algebra [Horn2013Matrix]: Positive semi-definite (PSD) matrices, Eigen-value Decomposition (EVD)</th>
         </tr>
         <tr>
             <th>Apr 4th</th>
             <th>Laplacian, its spectrum and connectivity</th>
             <th>Chp 2 [Mesbahi2010Graph]</th>
+            <th>Linear Algebra: same</th>
         </tr>
         <tr>
             <th>Apr 6th</th>
             <th>Agreemment protocol (undirected graph)</th>
             <th>Chp 3 [Mesbahi2010Graph]</th>
+            <th> Linear systems: Basic linear dynamical systems, their solution, stability and convergence properties</th>
         </tr>
         <tr>
             <th>Apr 11th</th>
             <th>Agreemment protocol (directed graph + discrete time)</th>
             <th>Chp 3 [Mesbahi2010Graph]</th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties, Perron–Frobenius theorem</th>
         </tr>
         <tr>
             <th>Apr 13th</th>
-            <th>Agreemment protocol (random graph)</th>
+            <th>(tentative!) Agreemment protocol (random graph) </th>
             <th>Chp 5 [Mesbahi2010Graph]</th>
+            <th> Probability: Basic concepts such as Event, probability, and expectation. Also, convergence of sequences in probability. </th>
         </tr>
     </tbody>
 </table>
