@@ -42,46 +42,54 @@ table, th, td {
             <th>Topic</th>
             <th>Resources</th>
             <th>Prerequisite</th>
+            <th>Extra resources</th>
         </tr>
         <tr>
             <th>March 28th</th>
             <th>syllabus/logistics + intro</th>
-            <th>Chp 1 and 2 [Mesbahi2010Graph]; 
-                <a href="https://www.nature.com/articles/s41586-020-2923-3.pdf" target="_blank">Superspreaders of Covid-19</a>;
-                <a href="https://www.nature.com/articles/ncomms9414.pdf" target="_blank">Controllability of brain network</a>;
+            <th>Chp 1 and 2 [Mesbahi2010Graph];
                 <a href="https://danjcalderone.github.io/teaching/network/GRAPHS_MAR30.pdf" target="_blank">Algebraic Graph Theory Slides</a>
                 </th>
             <th>Linear Algebra [Horn2013Matrix]: left/right nullspace, rank-nullity theorem, Singular-value Decomposition (SVD), Moore–Penrose psuedo-inverse</th>
+            <th>
+            <a href="https://www.nature.com/articles/s41586-020-2923-3.pdf" target="_blank">Superspreaders of Covid-19</a>;
+            <a href="https://www.nature.com/articles/ncomms9414.pdf" target="_blank">Controllability of brain network</a>;
+            </th>
         </tr>
         <tr>
             <th>March 30th</th>
             <th>Introduction to algebraic graph theory</th>
             <th><a href="https://danjcalderone.github.io/teaching/network/GRAPHS_MAR30.pdf" target="_blank">Algebraic Graph Theory Slides (updated)</a></th>
             <th>Linear Algebra [Horn2013Matrix]: Positive semi-definite (PSD) matrices, Eigen-value Decomposition (EVD)</th>
+            <th></th>
         </tr>
         <tr>
             <th>Apr 4th</th>
             <th>Laplacian, its spectrum and connectivity</th>
-            <th>Chp 2 [Mesbahi2010Graph]</th>
+            <th>Chp 2 [Mesbahi2010Graph], <a href="https://danjcalderone.github.io/teaching/network/networkdynamicsSpr22/GRAPHS_MAR30.pdf" target="_blank">Algebraic Graph Theory Slides (annotated)</a></th>
             <th>Linear Algebra: same</th>
+            <th><a href="https://danjcalderone.github.io/teaching/linalg/DFT.pdf" target="_blank"> circulant matrices</a></th> 
         </tr>
         <tr>
             <th>Apr 6th</th>
             <th>Agreemment protocol (undirected graph)</th>
             <th>Chp 3 [Mesbahi2010Graph]</th>
             <th> Linear systems: Basic linear dynamical systems, their solution, stability and convergence properties</th>
+            <th></th>
         </tr>
         <tr>
             <th>Apr 11th</th>
             <th>Agreemment protocol (directed graph + discrete time)</th>
             <th>Chp 3 [Mesbahi2010Graph]</th>
             <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties, Perron–Frobenius theorem</th>
+            <th></th>
         </tr>
         <tr>
             <th>Apr 13th</th>
             <th>(tentative!) Agreemment protocol (random graph) </th>
             <th>Chp 5 [Mesbahi2010Graph]</th>
             <th> Probability: Basic concepts such as Event, probability, and expectation. Also, convergence of sequences in probability. </th>
+            <th></th>
         </tr>
     </tbody>
 </table>
