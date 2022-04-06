@@ -73,7 +73,7 @@ table, th, td {
         <tr>
             <th>Apr 6th</th>
             <th>Agreemment protocol (undirected graph)</th>
-            <th>Chp 3 [Mesbahi2010Graph]</th>
+            <th>Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol1.pdf" target="_blank">Notes</a></th>
             <th> Linear systems: Basic linear dynamical systems, their solution, stability and convergence properties</th>
             <th></th>
         </tr>
