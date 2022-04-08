@@ -15,12 +15,15 @@ A networked dynamic system is a set of dynamical units that interact over a sign
 <p><b>Class Time:</b> (M/W) 11:30 pm - 12:50 pm </p>
 <p><b>Class websites:</b> Canvas page (homework submissions) and https://shahriarta.github.io/teaching/ </p>
 <p><b> Class Room:</b> GUG 204 </p>
-<p><b>Office Hours:</b> TBA </p>
+<p><b>Office Hours:</b> TBA; We can always setup up another time by email too.</p>
 
 
 <p> You can find the syllabus <a href="/assets/pdf/syllabus-Sp2022.pdf" target="_blank">here</a>. </p>
 
 <p> You can also access an online copy of the main textbook <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71156690860001451" target="_blank">here</a>, provided by the UW library.</p>
+
+<p style="font-size:15pt"> Homework:</p>
+Here is the first homework assignment <a href="/assets/pdf/HW1.pdf" target="_blank"> PDF </a> (Due April 22, 2022).
 
 
 <style>
