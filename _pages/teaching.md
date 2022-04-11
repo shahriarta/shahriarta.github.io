@@ -76,14 +76,14 @@ table, th, td {
         <tr>
             <th>Apr 6th</th>
             <th>Agreemment protocol (undirected graph)</th>
-            <th>Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol1.pdf" target="_blank">Notes</a></th>
+            <th>Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol1.pdf" target="_blank">Notes (AP)</a></th>
             <th> Linear systems: Basic linear dynamical systems, their solution, stability and convergence properties</th>
             <th></th>
         </tr>
         <tr>
             <th>Apr 11th</th>
             <th>Agreemment protocol (directed graph + discrete time)</th>
-            <th>Chp 3 [Mesbahi2010Graph]</th>
+            <th>Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol2.pdf" target="_blank">Notes (directed AP)</a></th>
             <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties, Perron–Frobenius theorem</th>
             <th></th>
         </tr>
