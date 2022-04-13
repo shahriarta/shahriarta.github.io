@@ -76,7 +76,7 @@ table, th, td {
         <tr>
             <th>Apr 6th</th>
             <th>Agreemment protocol (undirected graph)</th>
-            <th>Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol1.pdf" target="_blank">Notes (AP)</a></th>
+            <th>Chp 2 and 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol1.pdf" target="_blank">Notes (AP)</a></th>
             <th> Linear systems: Basic linear dynamical systems, their solution, stability and convergence properties</th>
             <th></th>
         </tr>
@@ -89,6 +89,13 @@ table, th, td {
         </tr>
         <tr>
             <th>Apr 13th</th>
+            <th>Agreemment protocol (directed graph + discrete time)</th>
+            <th>Cont. Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol3.pdf" target="_blank">Notes (directed AP-cont.)</a></th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties, Perron–Frobenius theorem</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Apr 18th</th>
             <th>(tentative!) Agreemment protocol (random graph) </th>
             <th>Chp 5 [Mesbahi2010Graph]</th>
             <th> Probability: Basic concepts such as Event, probability, and expectation. Also, convergence of sequences in probability. </th>
