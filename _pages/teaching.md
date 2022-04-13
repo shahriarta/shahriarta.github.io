@@ -14,7 +14,7 @@ A networked dynamic system is a set of dynamical units that interact over a sign
 
 <p><b>Class Time:</b> (M/W) 11:30 pm - 12:50 pm </p>
 <p><b>Class websites:</b> Canvas page (homework submissions) and https://shahriarta.github.io/teaching/ </p>
-<p><b>Class Room:</b> GUG 204 </p>
+<p><b>Class Room:</b> GUG 204/ <a href="https://washington.zoom.us/j/92496878244">Zoom Link</a> </p>
 <p><b>Office Hours:</b> Wednesdays 2:00-3:00 pm in <a href="https://washington.zoom.us/j/95457808598">Zoom Link</a>/GUG 305 (Shahriar); 
       <br>&emsp; &emsp; &emsp; &emsp; &emsp; Fridays 3:30-4:30 pm in <a href="https://washington.zoom.us/j/97544541643">Zoom Link</a> (Dan);
       <br>&emsp; &emsp; &emsp; &emsp; &emsp; We can always setup up another time by email too.</p>
