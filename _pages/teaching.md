@@ -86,16 +86,31 @@ table, th, td {
             <th>Apr 11th</th>
             <th>Agreemment protocol (directed graph + discrete time)</th>
             <th>Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol2.pdf" target="_blank">Notes (directed AP)</a></th>
-            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties, Perron–Frobenius theorem</th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties</th>
             <th></th>
         </tr>
         <tr>
             <th>Apr 13th</th>
             <th>Agreemment protocol (directed graph + discrete time)</th>
             <th>Cont. Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Agreement_Protocol3.pdf" target="_blank">Notes (directed AP-cont.)</a></th>
-            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties, Perron–Frobenius theorem</th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: non-negative matrices and their properties,  Perron–Frobenius theorem</th>
             <th></th>
         </tr>
+        <tr>
+            <th>Apr 18th</th>
+            <th>Factorization Lemma</th>
+            <th>Cont. Chp 3 [Mesbahi2010Graph], </th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Kronecker product of matrices</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Apr 20th</th>
+            <th>Agreemment protocol (discrete time) + Varying graph</th>
+            <th>Chp 4 [Mesbahi2010Graph]</th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, [Mesbahi2010Graph, Appendix]: Lyapunov stability, LaSalle's invariance principle</th>
+            <th></th>
+        </tr>
+        <!--
         <tr>
             <th>Apr 18th</th>
             <th>(tentative!) Agreemment protocol (random graph) </th>
@@ -103,5 +118,6 @@ table, th, td {
             <th> Probability: Basic concepts such as Event, probability, and expectation. Also, convergence of sequences in probability. </th>
             <th></th>
         </tr>
+        -->
     </tbody>
 </table>
