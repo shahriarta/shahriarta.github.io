@@ -99,7 +99,7 @@ table, th, td {
         <tr>
             <th>Apr 18th</th>
             <th>Factorization Lemma</th>
-            <th>Cont. Chp 3 [Mesbahi2010Graph], </th>
+            <th>Cont. Chp 3 [Mesbahi2010Graph], <a href="/assets/pdf/Factorization_Lemma.pdf" target="_blank">Notes (Factorization Lemma)</a></th>
             <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Kronecker product of matrices</th>
             <th></th>
         </tr>
