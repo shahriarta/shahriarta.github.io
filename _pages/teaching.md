@@ -105,8 +105,15 @@ table, th, td {
         </tr>
         <tr>
             <th>Apr 20th</th>
-            <th>Agreemment protocol (discrete time) + Varying graph</th>
-            <th>Chp 4 [Mesbahi2010Graph]</th>
+            <th>Varying graph</th>
+            <th>Chp 4 [Mesbahi2010Graph] <a href="/assets/pdf/Lyapunov_methods.pdf" target="_blank">Notes (Lyapunov methods)</a></th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, [Mesbahi2010Graph, Appendix]: Lyapunov stability, LaSalle's invariance principle</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Apr 25th</th>
+            <th>Varying graph (cont.)+ discrete time</th>
+            <th>Chp 4 [Mesbahi2010Graph] </th>
             <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, [Mesbahi2010Graph, Appendix]: Lyapunov stability, LaSalle's invariance principle</th>
             <th></th>
         </tr>
