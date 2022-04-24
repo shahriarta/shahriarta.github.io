@@ -112,12 +112,19 @@ table, th, td {
         </tr>
         <tr>
             <th>Apr 25th</th>
+            <th>Varying graph (cont.)+ Edge consensus</th>
+            <th>Chp 4 [Mesbahi2010Graph] </th>
+            <th>Linear systems, Linear algebra, [Mesbahi2010Graph, Appendix]: LaSalle's invariance principle for switched linear systems</th>
+            <th></th>
+        </tr>
+        <!--
+        <tr>
+            <th>Apr 25th</th>
             <th>Varying graph (cont.)+ discrete time</th>
             <th>Chp 4 [Mesbahi2010Graph] </th>
             <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, [Mesbahi2010Graph, Appendix]: Lyapunov stability, LaSalle's invariance principle</th>
             <th></th>
         </tr>
-        <!--
         <tr>
             <th>Apr 18th</th>
             <th>(tentative!) Agreemment protocol (random graph) </th>
