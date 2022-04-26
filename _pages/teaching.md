@@ -26,7 +26,7 @@ A networked dynamic system is a set of dynamical units that interact over a sign
 
 <p style="font-size:15pt"> Homework:</p>
 <p> Here is the first homework assignment <a href="/assets/pdf/HW1.pdf" target="_blank"> PDF </a> (Due April 22, 2022).</p>
-<p> Here is the second homework assignment <a href="/assets/pdf/HW2.ipynb" target="_blank"> Jupyter notebook </a> (Due May 6, 2022). Here is short <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">tutorial</a> how to setup and use Jupyter Notebooks.</p>
+<p> Here is the second homework assignment <a href="/assets/pdf/HW2.ipynb" target="_blank"> Jupyter notebook </a> (Due May 8, 2022). Here is short <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">tutorial</a> how to setup and use Jupyter Notebooks.</p>
 
 
 <style>
