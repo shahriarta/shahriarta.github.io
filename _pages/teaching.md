@@ -25,7 +25,8 @@ A networked dynamic system is a set of dynamical units that interact over a sign
 <p> You can also access an online copy of the main textbook <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71156690860001451" target="_blank">here</a>, provided by the UW library.</p>
 
 <p style="font-size:15pt"> Homework:</p>
-Here is the first homework assignment <a href="/assets/pdf/HW1.pdf" target="_blank"> PDF </a> (Due April 22, 2022).
+<p> Here is the first homework assignment <a href="/assets/pdf/HW1.pdf" target="_blank"> PDF </a> (Due April 22, 2022).</p>
+<p> Here is the second homework assignment <a href="/assets/pdf/HW2.ipynb" target="_blank"> Jupyter notebook </a> (Due May 6, 2022). Here is short <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">tutorial</a> how to setup and use Jupyter Notebooks.</p>
 
 
 <style>
@@ -113,7 +114,7 @@ table, th, td {
         <tr>
             <th>Apr 25th</th>
             <th>Varying graph (cont.)+ Edge consensus</th>
-            <th>Chp 4 [Mesbahi2010Graph] </th>
+            <th>Chp 4 [Mesbahi2010Graph] <a href="/assets/pdf/Edge_consensus.pdf" target="_blank">Notes (Lyapunov methods cont.+ Edge consensus)</a> </th>
             <th>Linear systems, Linear algebra, [Mesbahi2010Graph, Appendix]: LaSalle's invariance principle for switched linear systems</th>
             <th></th>
         </tr>
