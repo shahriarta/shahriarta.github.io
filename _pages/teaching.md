@@ -118,14 +118,14 @@ table, th, td {
             <th>Linear systems, Linear algebra, [Mesbahi2010Graph, Appendix]: LaSalle's invariance principle for switched linear systems</th>
             <th></th>
         </tr>
-        <!--
         <tr>
-            <th>Apr 25th</th>
-            <th>Varying graph (cont.)+ discrete time</th>
-            <th>Chp 4 [Mesbahi2010Graph] </th>
-            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, [Mesbahi2010Graph, Appendix]: Lyapunov stability, LaSalle's invariance principle</th>
-            <th></th>
+            <th>Apr 27th</th>
+            <th>discretization and generalization of A.P.</th>
+            <th>Chp 4 [Mesbahi2010Graph] <a href="/assets/pdf/discretization.pdf" target="_blank">Notes (discretization vs discrete sampling)</a></th>
+            <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, Metzler matrices</th>
+            <th><a href="https://ieeexplore.ieee.org/abstract/document/1429377" target="_blank"> Moreau'04</a>, <a href="https://ieeexplore.ieee.org/document/1393134" target="_blank"> Moreau'05</a></th>
         </tr>
+        <!--
         <tr>
             <th>Apr 18th</th>
             <th>(tentative!) Agreemment protocol (random graph) </th>
