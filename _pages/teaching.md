@@ -128,7 +128,7 @@ table, th, td {
         <tr>
             <th>May 2nd</th>
             <th>Discrete A.P. and distributed estimation</th>
-            <th>Chp 8 [Mesbahi2010Graph] </th>
+            <th>Chp 8 [Mesbahi2010Graph] <a href="/assets/pdf/distributed_estimation.pdf" target="_blank">Notes</a> </th>
             <th>Discrete linear systems: Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, irreducible and primitive matrices</th>
             <th></th>
         </tr>
