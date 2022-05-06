@@ -123,14 +123,14 @@ table, th, td {
             <th>discretization and generalization of A.P.</th>
             <th>Chp 4 [Mesbahi2010Graph] <a href="/assets/pdf/discretization.pdf" target="_blank">Notes (discretization vs discrete sampling)</a></th>
             <th>Linear systems: same; Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, Metzler matrices</th>
-            <th><a href="https://ieeexplore.ieee.org/abstract/document/1429377" target="_blank"> Moreau'04</a>, and <a href="https://ieeexplore.ieee.org/document/1393134" target="_blank"> Moreau'05</a></th>
+            <th><a href="https://ieeexplore.ieee.org/abstract/document/1429377" target="_blank"> Moreau'04</a>, and <a href="https://ieeexplore.ieee.org/document/1393134" target="_blank"> Moreau'05</a>; <a href="https://ieeexplore.ieee.org/document/1431045" target="_blank"> time-varying graph</a></th>
         </tr>
         <tr>
             <th>May 2nd</th>
             <th>Discrete A.P. and distributed estimation</th>
             <th>Chp 8 [Mesbahi2010Graph] <a href="/assets/pdf/distributed_estimation.pdf" target="_blank">Notes</a> </th>
             <th>Discrete linear systems: Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, irreducible and primitive matrices</th>
-            <th></th>
+            <th><a href="https://web.stanford.edu/~boyd/papers/pdf/avg_metropolis.pdf" target="_blank"> Metropolis weights</a>; <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-21/issue-1/On-Reaching-a-Consensus-Using-Degroots-Iterative-Pooling/10.1214/aos/1176349032.full" target="_blank"> Consensus on opinions</a> </th>
         </tr>
         <tr>
             <th>May 4th</th>
