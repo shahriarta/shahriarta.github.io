@@ -132,6 +132,20 @@ table, th, td {
             <th>Discrete linear systems: Linear algebra [Horn2013Matrix]: Perron–Frobenius theorem, irreducible and primitive matrices</th>
             <th></th>
         </tr>
+        <tr>
+            <th>May 4th</th>
+            <th>Distributed Kalman Filtering</th>
+            <th>Chp 8 [Mesbahi2010Graph] <a href="/assets/pdf/Kalman_filter.pdf" target="_blank">Notes</a> and <a href="https://danjcalderone.github.io/teaching/estim/KALMAN.pdf" target="_blank">Slides</a> </th>
+            <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; Kalman Filter</th>
+            <th><a href="https://danjcalderone.github.io/teaching/coding/ARRAYS.pdf" target="_blank">Python slides (Numpy array)</a></th>
+        </tr>
+        <tr>
+            <th>May 9th</th>
+            <th>Kalman Filtering (cont.)+ distributed optimization</th>
+            <th>Chp 8 [Mesbahi2010Graph] <a href="/assets/pdf/Kalman_filter.pdf" target="_blank"></a>  <a href="https://danjcalderone.github.io/teaching/estim/KALMAN.pdf" target="_blank"></a> </th>
+            <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; Kalman Filter</th>
+            <th></th>
+        </tr>
         <!--
         <tr>
             <th>Apr 18th</th>
