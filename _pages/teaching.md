@@ -142,9 +142,9 @@ table, th, td {
         <tr>
             <th>May 9th</th>
             <th>Kalman Filtering (cont.)+ distributed optimization</th>
-            <th>Chp 8 [Mesbahi2010Graph] <a href="/assets/pdf/Kalman_filter.pdf" target="_blank"></a>  <a href="https://danjcalderone.github.io/teaching/estim/KALMAN.pdf" target="_blank"></a> </th>
+            <th>Chp 8 [Mesbahi2010Graph] <a href="/assets/pdf/Kalman_filter2.pdf" target="_blank">Kalman Filter2</a>  <a href="https://danjcalderone.github.io/teaching/estim/KALMAN.pdf" target="_blank"></a> </th>
             <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; Kalman Filter</th>
-            <th></th>
+            <th><a href="https://stanford.edu/~jduchi/projects/DuchiAgWa10_nips.pdf" target="_blank">Distributed Dual Averaging</a> </th>
         </tr>
         <!--
         <tr>
