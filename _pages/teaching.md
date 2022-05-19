@@ -146,6 +146,27 @@ table, th, td {
             <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; Kalman Filter</th>
             <th><a href="https://stanford.edu/~jduchi/projects/DuchiAgWa10_nips.pdf" target="_blank">Distributed Dual Averaging</a> </th>
         </tr>
+        <tr>
+            <th>May 11th</th>
+            <th>distributed optimization (Cont.)</th>
+            <th><a href="/assets/pdf/notesMay11.pdf" target="_blank">notes</a> </th>
+            <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; Basic convex analysis</th>
+            <th><a href="https://stanford.edu/~jduchi/projects/DuchiAgWa10_nips.pdf" target="_blank">Distributed Dual Averaging</a> </th>
+        </tr>
+        <tr>
+            <th>May 16th</th>
+            <th>distributed optimization (Cont.) + Formation Control</th>
+            <th>Chp 6 [Mesbahi2010Graph], <a href="/assets/pdf/notesMay16.pdf" target="_blank">notes</a> </th>
+            <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; Basic convex analysis</th>
+            <th> </th>
+        </tr>
+        <tr>
+            <th>May 18th</th>
+            <th>Formation Control (Cont.)</th>
+            <th>Chp 6 [Mesbahi2010Graph], <a href="/assets/pdf/notesMay18.pdf" target="_blank">notes</a> </th>
+            <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; </th>
+            <th> </th>
+        </tr>
         <!--
         <tr>
             <th>Apr 18th</th>
