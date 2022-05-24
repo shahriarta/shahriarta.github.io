@@ -167,6 +167,13 @@ table, th, td {
             <th>Discrete linear systems; Linear algebra [Horn2013Matrix]; </th>
             <th> </th>
         </tr>
+        <tr>
+            <th>May 23th</th>
+            <th>Controllability of Networks</th>
+            <th>Chp 10 [Mesbahi2010Graph], <a href="/assets/pdf/notesMay23.pdf" target="_blank">notes</a> </th>
+            <th>Controllability and Observability of linear systems; PBH test</th>
+            <th> <a href="http://control.asu.edu/Classes/MAE598/598Lecture05.pdf" target="_blank">slides</a> of LMIs for Controllability by M. Peet</th>
+        </tr>
         <!--
         <tr>
             <th>Apr 18th</th>
