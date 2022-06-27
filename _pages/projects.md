@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A glance at some of my recent works...(coming soon)
+description: A glance at some of my recent works...
 nav: true
-display_categories: [Learning on stabilizing submanifold, Regularizability and online control, Data-driven distributed control
+display_categories: [work, Regularizability and online control, Data-driven distributed control
 ]
 horizontal: false
 ---

@@ -1,11 +1,44 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Learning and online control
+description: Regularizability and online control of unstable systems
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: underconstruction
 ---
+
+
+
+
+Learning, say through direct policy updates, often requires assumptions such as 
+<ul>
+  <li>knowing a priori that the initial policy (gain) is stabilizing, or</li>
+  <li>persistently exciting (PE) input-output data is available.</li>
+</ul> 
+
+
+However, 
+
+In this project, we examine online regulation of (possibly unstable) partially unknown 
+linear systems with no {\color{PineGreen} prior access to an initial stabilizing controller 
+nor PE input-output data;
+we instead leverage the knowledge of the input matrix for online regulation}.
+%
+First, we introduce and characterize the notion of ``regularizability'' for 
+linear systems that gauges the extent by which a system can be regulated in 
+finite-time in contrast to its asymptotic behavior 
+(commonly characterized by stabilizability/controllability).
+%
+Next, having access only to the input matrix, we propose the \ac{DGR} synthesis 
+procedure that---as its name suggests---regulates the underlying state while also 
+generating informative data that can subsequently be used for data-driven stabilization
+ or system identification.
+%
+We further improve the computational performance of DGR via a rank-one update 
+and demonstrate its utility in online regulation of the X-29 aircraft.
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
