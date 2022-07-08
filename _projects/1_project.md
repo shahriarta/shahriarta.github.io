@@ -17,13 +17,13 @@ from the structure of LQR problem:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/chal1.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/chal1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/chal2.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/chal2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/chal3.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/chal3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -64,10 +64,10 @@ and Output-feedback LQR problems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/landscape_slqr.pdf" title="example image" class="img-fluid rounded " %}
+        {% include figure.html path="assets/img/projects/landscape_slqr.png" title="example image" class="img-fluid rounded " %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/landscape_olqr.pdf" title="example image" class="img-fluid rounded " %}
+        {% include figure.html path="assets/img/projects/landscape_olqr.png" title="example image" class="img-fluid rounded " %}
     </div>
 </div>
 <div class="caption">
@@ -83,7 +83,7 @@ The algorithm at iteration \(t\) updates:
 $$K^+ = K + \min\left\{s_{K}, 1\right\} \cdot G$$
 </div>
 <div>
-where \( G \) solves
+where the Riemannian Newton direction \( G \) solves
 </div>
 <div style="text-align:center">
 $$\mathrm{Hess}\, h_{K}[G] = -\mathrm{grad}\, {h}_{K}.$$
@@ -96,10 +96,10 @@ for these problems:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/random_slqr.pdf" title="example image" class="img-fluid rounded " %}
+        {% include figure.html path="assets/img/projects/random_slqr.png" title="example image" class="img-fluid rounded " %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/random_olqr.pdf" title="example image" class="img-fluid rounded " %}
+        {% include figure.html path="assets/img/projects/random_olqr.png" title="example image" class="img-fluid rounded " %}
     </div>
 </div>
 <div class="caption">

@@ -2,43 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8fc72e-e862-4442-9d8a-8a0188f4cb96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/shahriar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/landscape_olqr.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/proj1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/random_olqr.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/announcement_0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/announcement_4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_projects/1_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/1_project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/2_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/2_project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/3_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/3_project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/landscape_slqr.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/landscape_slqr.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/motivation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/motivation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photos-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publications-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/random_slqr.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/random_slqr.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Agreement_Protocol1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Agreement_Protocol1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Agreement_Protocol2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Agreement_Protocol2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Agreement_Protocol3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Agreement_Protocol3.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Edge_consensus.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Edge_consensus.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Factorization_Lemma.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Factorization_Lemma.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/HW1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/HW1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/HW2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/HW2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Kalman_filter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Kalman_filter.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Kalman_filter2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Kalman_filter2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Lyapunov_methods.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/Lyapunov_methods.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/discretization.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/discretization.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/distributed_estimation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/distributed_estimation.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/notesMay11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/notesMay11.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/notesMay16.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/notesMay16.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/notesMay18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/notesMay18.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/notesMay23.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/notesMay23.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/syllabus-Sp2022.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/teach_network/syllabus-Sp2022.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/chal1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/chal2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/chal3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/landscape_olqr.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/landscape_slqr.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/random_olqr.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/random_slqr.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,47 +29,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
+        <entry file="file://$PROJECT_DIR$/_news/announcement_3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/projects.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_projects/1_project.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1496">
-                <caret line="88" column="54" selection-start-line="88" selection-start-column="54" selection-end-line="88" selection-end-column="54" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_projects/2_project.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -97,13 +41,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_projects/3_project.md">
+        <entry file="file://$PROJECT_DIR$/_news/announcement_2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_news/announcement_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_news/announcement_0.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_news/announcement_4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -131,10 +120,14 @@
       <find>kate</find>
       <find>latex</find>
       <find>unsplash</find>
+      <find>pdf</find>
+      <find>powered</find>
+      <find>foot</find>
     </findStrings>
     <replaceStrings>
       <replace>red</replace>
       <replace>assets/pdf/teach_network</replace>
+      <replace>png</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -152,13 +145,20 @@
         <option value="$USER_HOME$/Library/CloudStorage/OneDrive-Knights-UniversityofCentralFlorida/PycharmProjects/CDC2022-LQR-manifold-quasi/random-olqr.py" />
         <option value="$USER_HOME$/Library/CloudStorage/OneDrive-Knights-UniversityofCentralFlorida/PycharmProjects/CDC2022-LQR-manifold-quasi/network-trajectory.py" />
         <option value="$PROJECT_DIR$/assets/pdf/HW2.ipynb" />
-        <option value="$PROJECT_DIR$/_pages/teaching.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_projects/1_project.md" />
-        <option value="$PROJECT_DIR$/_pages/projects.md" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_projects/2_project.md" />
         <option value="$PROJECT_DIR$/_projects/3_project.md" />
+        <option value="$PROJECT_DIR$/_projects/1_project.md" />
+        <option value="$PROJECT_DIR$/_pages/projects.md" />
+        <option value="$PROJECT_DIR$/_pages/about.md" />
+        <option value="$PROJECT_DIR$/_pages/teaching.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_news/announcement_1.md" />
+        <option value="$PROJECT_DIR$/_news/announcement_0.md" />
+        <option value="$PROJECT_DIR$/_news/announcement_5.md" />
+        <option value="$PROJECT_DIR$/_news/announcement_4.md" />
+        <option value="$PROJECT_DIR$/_news/announcement_3.md" />
+        <option value="$PROJECT_DIR$/_news/announcement_2.md" />
       </list>
     </option>
   </component>
@@ -178,6 +178,16 @@
             <path>
               <item name="shahriarta.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="shahriarta.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shahriarta.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shahriarta.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shahriarta.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shahriarta.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shahriarta.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -227,11 +237,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/projects" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_news" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_news" />
       <recent name="$PROJECT_DIR$/assets/img/projects" />
       <recent name="$PROJECT_DIR$/assets/pdf" />
     </key>
@@ -353,7 +364,7 @@
     <frame x="0" y="25" width="1610" height="1025" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13215859" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15292637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,30 +435,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2015-07-15-code.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-09-28-twitter.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-05-15-images.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-03-15-formatting-and-links.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -519,16 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="55" column="14" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/CloudStorage/OneDrive-Knights-UniversityofCentralFlorida/PycharmProjects/CDC2022-LQR-manifold-quasi/random-olqr-CDC2022.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="222" column="43" selection-start-line="222" selection-start-column="43" selection-end-line="222" selection-end-column="43" />
-          <folding>
-            <element signature="e#151#169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,57 +615,10 @@
     <entry file="file://$PROJECT_DIR$/assets/img/math-screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/1_project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1496">
-            <caret line="88" column="54" selection-start-line="88" selection-start-column="54" selection-end-line="88" selection-end-column="54" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/2_project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -704,11 +634,146 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="119">
-            <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/retraction.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/projects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/CloudStorage/OneDrive-Knights-UniversityofCentralFlorida/PycharmProjects/CDC2022-LQR-manifold-quasi/random-olqr-CDC2022.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+          <folding>
+            <element signature="e#151#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="337">
+            <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_projects/2_project.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="27" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_projects/1_project.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1127">
+            <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_news/announcement_0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_news/announcement_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_news/announcement_4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_news/announcement_3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_news/announcement_2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

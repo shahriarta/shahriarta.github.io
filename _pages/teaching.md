@@ -23,6 +23,8 @@ A networked dynamic system is a set of dynamical units that interact over a sign
 <p> You can find the syllabus <a href="/assets/pdf/teach_network/syllabus-Sp2022.pdf" target="_blank">here</a>. </p>
 
 <p> You can also access an online copy of the main textbook <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71156690860001451" target="_blank">here</a>, provided by the UW library.</p>
+<p> Also see another great textbook <a href="https://link.springer.com/book/10.1007/978-3-319-16646-9" target="_blank">here</a>.</p>
+
 
 <p style="font-size:15pt"> Homework:</p>
 <p> Here is the first homework assignment <a href="/assets/pdf/teach_network/HW1.pdf" target="_blank"> PDF </a> (Due April 22, 2022).</p>

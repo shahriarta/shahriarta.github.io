@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A glance at some of my recent works...
+description: A glance at some of my recent works...(is still updating)
 nav: true
 display_categories: [work, Regularizability and online control, Data-driven distributed control
 ]
