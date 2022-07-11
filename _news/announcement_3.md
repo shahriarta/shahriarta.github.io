@@ -6,4 +6,4 @@ inline: true
 
 <p>👨🏼‍🏫 I will be teaching Networked Dynamic Systems in Spring 2022 @ UW.  
 <br>
-&emsp;&ensp; Check out the <a href='/teaching'>course website</a>.</p>
+&emsp;&ensp; Check out the <a href='{{site.baseurl}}/teaching'>course website</a>.</p>
