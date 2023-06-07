@@ -8,9 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Guggenheim Hall Room 315</p>
+    <p>Guggenheim Hall Room315</p>
     <p>3940 Benton Lane NE</p>
     <p>Seattle, WA 98195</p>
+    <p>email: <a href="mailto:shahriar@uw.edu">shahriar@uw.edu</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

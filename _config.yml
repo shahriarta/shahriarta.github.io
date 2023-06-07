@@ -68,7 +68,7 @@ quora_username: # your Quora username
 publons_id: AAK-9890-2020 # your ID on Publons--now moved to the Web-of-Science
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://depts.washington.edu/uwrainlab/ # work page URL
+work_url: https://math.washington.edu/people/shahriar-talebi # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -112,7 +112,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
