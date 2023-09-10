@@ -18,16 +18,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. Candidate in aeronautics and astronautics at the University of Washington, 
-Seattle, WA, where I'm also working toward the M.S. degree in mathematics.
-My research interests includes game theory and variational analysis, data-driven control, 
-and networked dynamical systems. I'm also interested in applying the developed techniques 
+I'm a postdoctoral fellow at Harvard’s John A. Paulson School of Engineering 
+and Applied Sciences (SEAS) since September 2023. 
+
+I received my Ph.D. degree in aeronautics and astronautics (focusing on control theory) 
+under the supervision of <a href="https://mehran-mesbahi.github.io">Mehran Mesbahi</a> 
+and my M.Sc. degree in mathematics (specializing in differential geometry) under the 
+supervision of <a href="https://sites.math.washington.edu//~lee/">John M. Lee</a> from UW, Seattle, WA, USA, in 2023.
+See my Ph.D. dissertation, titled 
+<a href="{{ site.baseurl }}/assets/pdf/uwthesis.pdf" target="_blank">
+“Constrained Policy Synthesis: Riemannian Flows, Online Regulation, and Distributed Games.” </a>
+
+My research interests includes control theory, differential geometry, 
+game theory and variational analysis, learning for control, and networked systems.
+I'm also interested in applying the developed techniques 
 to analyze distributed systems operating in cooperative/non-cooperative environments.
 
 ...more about me. I received the B.Sc. degree in electrical engineering from the Sharif 
 University of Technology, Tehran, Iran, in 2014, the M.Sc. degree in electrical engineering 
-from the University of Central Florida, Orlando, FL, USA, in 2017, both in the area of 
-control theory. I'm a recipient of William E. Boeing Endowed Fellowship, Paul A. 
+from the University of Central Florida (UCF), Orlando, FL, USA, in 2017, both in the area of 
+control theory. I'm honored by the 2022 Excellence in Teaching Award at the University of Washington.
+I'm also a recipient of William E. Boeing Endowed Fellowship, Paul A. 
 Carlstedt Endowment, and Latvian Arctic Pilot–A. Vagners Memorial Scholarship with UW 
 in 2018 and 2019, and Frank Hubbard Engineering Scholarship with UCF in 2017. 
 
