@@ -32,7 +32,7 @@ See my Ph.D. dissertation, titled
 My research interests includes control theory, differential geometry, 
 game theory and variational analysis, learning for control, and networked systems.
 I'm also interested in applying the developed techniques 
-to analyze distributed systems operating in cooperative/non-cooperative environments.
+to distributed systems operating in cooperative/non-cooperative environments.
 
 ...more about me. I received the B.Sc. degree in electrical engineering from the Sharif 
 University of Technology, Tehran, Iran, in 2014, the M.Sc. degree in electrical engineering 
