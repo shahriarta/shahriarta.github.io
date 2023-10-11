@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, <a href='https://depts.washington.edu/uwrainlab/'>RAIN Lab</a>, <a href='https://www.washington.edu'>University of Washington</a>, Seattle, WA.
+subtitle: Postdoctoral Fellow, <a href='https://seas.harvard.edu/'>School of Engineering and Applied Sciences</a>, <a href='https://www.harvard.edu'>Harvard University</a>, Cambridge, MA.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Guggenheim Hall Room315</p>
-    <p>3940 Benton Lane NE</p>
-    <p>Seattle, WA 98195</p>
-    <p>email: <a href="mailto:shahriar@uw.edu">shahriar@uw.edu</a></p>
+    <p>Science and Engineering Complex, Room 4.418</p>
+    <p>150 Western Ave</p>
+    <p>Allston, MA 02134</p>
+    <p>email: <a href="mailto:talebi@seas.harvard.edu">talebi@seas.harvard.edu</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
