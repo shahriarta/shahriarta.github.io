@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4a8fc72e-e862-4442-9d8a-8a0188f4cb96" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,6 +150,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "gitpage",
     "last_opened_file_path": "/Users/shahriar/Documents/GitHub/shahriarta.github.io/_news"
   }
 }]]></component>

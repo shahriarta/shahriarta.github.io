@@ -19,9 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a postdoctoral fellow at Harvard’s John A. Paulson School of Engineering 
-and Applied Sciences (SEAS) since September 2023. 
-
-<p> <a style='color:red' href='https://shahriarta.github.io'>I no longer update this page, please see my new page here!</a> </p>
+and Applied Sciences (SEAS) since September 2023.
 
 I received my Ph.D. degree in aeronautics and astronautics (focusing on control theory) 
 under the supervision of <a href="https://mehran-mesbahi.github.io">Mehran Mesbahi</a> 

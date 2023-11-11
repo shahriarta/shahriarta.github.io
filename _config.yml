@@ -1,12 +1,15 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# to publish the GithubPages change the url: https://shahriarta.github.io and baseurl: <empty>
+# to publish on a static host website the url: http://students.washington.edu and baseurl: /shahriar/
+# if you have baseurl you should update the link to any "assets/...." by "{{baseurl}}/assets/..."
 
 title: Shahriar Talebi # the website title (if blank, full name will be used instead)
 first_name: Shahriar
 middle_name: 
 last_name: Talebi
-email: shahriar@uw.edu
+email: talebi@seas.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal webpage
 footer_text: >
