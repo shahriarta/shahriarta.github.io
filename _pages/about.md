@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Science and Engineering Complex, Room 4.418</p>
+    <p>Science and Engineering Complex, Room 3.418</p>
     <p>150 Western Ave</p>
     <p>Allston, MA 02134</p>
     <p>email: <a href="mailto:talebi@seas.harvard.edu">talebi@seas.harvard.edu</a></p>
@@ -34,13 +34,17 @@ game theory and variational analysis, learning for control, and networked system
 I'm also interested in applying the developed techniques 
 to distributed systems operating in cooperative/non-cooperative environments. I have published over 20 papers and reviewed over 40 papers (see my <a href='https://www.webofscience.com/wos-researcher-cv/public/3551560/a7c90fc9-e576-4955-a6bf-d7df972d61c7/ShahriarTalebi_Web_of_Science_Researcher_CV.pdf'>Web of Science profile</a> summary).
 
-...more about me. I received the B.Sc. degree in electrical engineering from the Sharif 
+<details>
+	<summary>...more about me.</summary>
+	I received the B.Sc. degree in electrical engineering from the Sharif 
 University of Technology, Tehran, Iran, in 2014, the M.Sc. degree in electrical engineering 
 from the University of Central Florida (UCF), Orlando, FL, USA, in 2017, both in the area of 
 control theory. I'm honored by the 2022 Excellence in Teaching Award at the University of Washington.
 I'm also a recipient of William E. Boeing Endowed Fellowship, Paul A. 
 Carlstedt Endowment, and Latvian Arctic Pilot–A. Vagners Memorial Scholarship with UW 
 in 2018 and 2019, and Frank Hubbard Engineering Scholarship with UCF in 2017. 
+</details>
+ 
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
