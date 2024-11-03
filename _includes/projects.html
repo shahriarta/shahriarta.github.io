@@ -1,12 +1,14 @@
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
-<div class="grid-item">
+<!-- Adjust the width of each project card -->
+<div class="grid-item" style="width: 350px; margin: 15px;">
   {% if project.redirect -%}
   <a href="{{ project.redirect }}">
     {%- else -%}
     <a href="{{ project.url | relative_url }}">
       {%- endif %}
-      <div class="card hoverable">
+      <!-- Adjust the width of each project card by adding this below: style="height: 300px; padding: 20px;"-->
+      <div class="card hoverable" >
         {%- if project.img %}
         {%- include figure.html
           path=project.img

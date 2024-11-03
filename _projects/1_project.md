@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Learning and geometry
+title: Learning and Geometry
 description: Constrained policy optimization on submanifolds of stabilizing controllers 
 img: assets/img/projects/proj1.png
 importance: 1
-category: work
+category: Geometric Innovations in Learning
 ---
 
 In this project, we study optimization over the submanifolds of stabilizing 

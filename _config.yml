@@ -72,7 +72,7 @@ quora_username: # your Quora username
 publons_id: AAK-9890-2020 # your ID on Publons--now moved to the Web-of-Science
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://seas.harvard.edu/person/shahriar-talebi # work page URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -163,6 +163,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-scholar
 
 # Sitemap settings
 defaults:
@@ -219,7 +220,7 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  bibliography_template: mybibtemplate
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.

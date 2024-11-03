@@ -1,11 +1,10 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A glance at some of my recent works...(is still updating)
+description: A glance at some of my recent work (under construction)
 nav: true
-display_categories: [work, Regularizability and online control, Data-driven distributed control
-]
+display_categories: [current research tracks]
 horizontal: false
 ---
 
