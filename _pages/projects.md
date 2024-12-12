@@ -2,12 +2,18 @@
 layout: page
 title: research
 permalink: /projects/
-description: A glance at some of my recent work (under construction)
+description: A glance at some of my recent research tracks
 nav: true
 display_categories: [current research tracks]
 horizontal: false
 ---
 
+<figure>
+<center>
+  <img src="/assets/img/projects/main.png" alt="Main Research Tracks" width="350"/>
+  <!-- <figcaption>Main Research Tracks</figcaption> -->
+</center>
+</figure>
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

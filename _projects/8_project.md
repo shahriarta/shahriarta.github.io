@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Large-scale Distributed Policy Learning
+title: 04 - Multi-agent
 description: Large-scale distributed policy learning for networked systems utlizing algebraic structures and game theory
 img:
 importance: 4
 category: current research tracks
 ---
+
+
+<figure>
+<center>
+  <img src="/assets/img/projects/multi_agent_track.png" alt="Multi-agent Learning" width="700"/>
+  <!-- <figcaption>Multi-agent Learning</figcaption> -->
+</center>
+</figure>
 
 <p>Even though these data-driven techniques are relatively well-studied for linear dynamical systems, they are not directly suitable for networked systems due to the associated computational complexity and information constraints involving the agents' interconnections. To resolve this issue, <em>I characterized inherent symmetries and algebraic patterns, commonly arising in these large-scale complex systems, through the so-called Patterned Linear Semigroups</em> {% cite talebi2021distributed %}. The key idea, allowing us to extend data-driven methods to large-scale complex systems, is that this <em>regular semigroup</em> structure conforms with the construction of policy synthesis through the algebraic relations (e.g., Lyapunov equations). <em>This approach can learn to (almost) optimally control a homogeneous network of dynamical agents only from a sub-network data</em>. Furthermore, this procedure handles attaching/detaching agents on the fly without disrupting learning and control of the entire network {% cite talebi2024data %}.</p>
 
