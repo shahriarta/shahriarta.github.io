@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently affiliated with the John A. Paulson School of Engineering and Applied Sciences <a href='https://seas.harvard.edu/'>(SEAS)</a>, working with <a href='https://nali.seas.harvard.edu'>Na (Lina) Li</a>, the Faculty of Arts and Sciences <a href='https://www.fas.harvard.edu/'>(FAS)</a>, working with <a href='https://lucasjanson.fas.harvard.edu'>Lucas Janson</a>, and the NSF AI Institute in Dynamic Systems <a href='https://dynamicsai.org'>(Dynamics AI)</a>.
+I am currently affiliated with the John A. Paulson School of Engineering and Applied Sciences <a href='https://seas.harvard.edu/'>(SEAS)</a>, working with Professor <a href='https://nali.seas.harvard.edu'>Na (Lina) Li</a>, the Faculty of Arts and Sciences <a href='https://www.fas.harvard.edu/'>(FAS)</a>, working with Professor <a href='https://lucasjanson.fas.harvard.edu'>Lucas Janson</a>, and the NSF AI Institute in Dynamic Systems <a href='https://dynamicsai.org'>(Dynamics AI)</a>.
 
 
 <div id="justify">
