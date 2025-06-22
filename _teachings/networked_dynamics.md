@@ -1,19 +1,20 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+title: Networked Dynamic Systems
 description: Networked Dynamic Systems AA 597 (Spring 2022 @ UW)
-nav: true
+img: /assets/img/teachings/network.jpg
+importance: 2
+category: previous courses
 ---
 
 
-<p>{% include figure.html path="/assets/img/network.jpg" class="img-fluid rounded z-depth-1" %}
+<p>{% include figure.html path="/assets/img/teachings/network.jpg" class="img-fluid rounded z-depth-1" %}
 A networked dynamic system is a set of dynamical units that interact over a signal exchange network for its coordinated operation and behavior. Such systems have found many applications in diverse areas of science and engineering, including multiple space, air, land, and underwater vehicles, energy and power systems, physiology, and medicine. Currently, there is an active research effort underway in control and systems community to formalize these dynamical systems and lay out a foundation for their analysis and control synthesis. This course provides an overview of graph-theoretic techniques that have proven instrumental for studying networked dynamic systems.
 </p>
 
 
 <p><b>Class Time:</b> (M/W) 11:30 pm - 12:50 pm </p>
-<p><b>Class websites:</b> Canvas page (homework submissions) and https://shahriarta.github.io/teaching/ </p>
+<p><b>Class websites:</b> Canvas page (homework submissions) and  <a href="https://shahriarta.github.io/teachings/" target="_blank">https://shahriarta.github.io/teachings/</a> </p>
 <p><b>Class Room:</b> GUG 204/ <a href="https://washington.zoom.us/j/92496878244">Zoom Link</a> </p>
 <p><b>Office Hours:</b> Wednesdays 2:00-3:00 pm in <a href="https://washington.zoom.us/j/95457808598">Zoom Link</a>/GUG 305 (Shahriar); 
       <br>&emsp; &emsp; &emsp; &emsp; &emsp; Fridays 3:30-4:30 pm in <a href="https://washington.zoom.us/j/97544541643">Zoom Link</a> (Dan);
@@ -41,7 +42,7 @@ table, th, td {
 <table style="width:100%">
     <thead>
         <tr>
-            <th colspan="4"> <p style="font-size:20pt"> Course Schedule (Tentative)</p></th>
+            <th colspan="4"> <p style="font-size:20pt"> Course Schedule</p></th>
         </tr>
     </thead>
     <tbody>

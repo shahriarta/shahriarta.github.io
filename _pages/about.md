@@ -2,27 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow, <a href='https://www.harvard.edu'>Harvard University</a>, Cambridge, MA.
+subtitle: Assistant Professor, <a href='https://www.ucla.edu/'>University of California, Los Angeles</a>, CA.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Science Center, Rm. 316.10</p>
-    <p>1 Oxford St</p>
-    <p>Cambridge, MA 02138</p>
-    <p>email: <a href="mailto:talebi@seas.harvard.edu">talebi@seas.harvard.edu</a></p>
+    <p>Boelter Hall (4532H)</p>
+    <p>580 Portola Plaza,</p>
+    <p>Los Angeles, CA 90095</p>
+    <p>email: <a href="mailto:s.talebi@ucla.edu">s.talebi@ucla.edu</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently affiliated with the John A. Paulson School of Engineering and Applied Sciences <a href='https://seas.harvard.edu/'>(SEAS)</a>, working with Professor <a href='https://nali.seas.harvard.edu'>Na (Lina) Li</a>, the Faculty of Arts and Sciences <a href='https://www.fas.harvard.edu/'>(FAS)</a>, working with Professor <a href='https://lucasjanson.fas.harvard.edu'>Lucas Janson</a>, and the NSF AI Institute in Dynamic Systems <a href='https://dynamicsai.org'>(Dynamics AI)</a>.
-
+I am an Assistant Professor with the Samueli School of Engineering at the University of California, Los Angeles <a href='https://www.ucla.edu/'>(UCLA)</a>, affiliated with the Department of Mechanical and Aerospace Engineering <a href='https://mae.ucla.edu/'>(MAE)</a>, as of July 2025.
 
 <div id="justify">
 <p>
+Prior to joining UCLA, I was a Postdoctoral Research Fellow affiliated with Harvard, the John A. Paulson School of Engineering and Applied Sciences <a href='https://seas.harvard.edu/'>(Harvard SEAS)</a>, working with Professor <a href='https://nali.seas.harvard.edu'>Na (Lina) Li</a>, and the Faculty of Arts and Sciences <a href='https://www.fas.harvard.edu/'>(Harvard FAS)</a>, working with Professor <a href='https://lucasjanson.fas.harvard.edu'>Lucas Janson</a>. I was also involved with the NSF AI Institute in Dynamic Systems <a href='https://dynamicsai.org'>(Dynamics AI)</a>.
+
 I received my Ph.D. in control theory in 2023 under 
 the supervision of Professor <a href="https://mehran-mesbahi.github.io">Mehran Mesbahi</a>
  at the University of Washington, Seattle, where my 

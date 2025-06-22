@@ -115,6 +115,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teachings:
+    output: true
+    permalink: /teachings/:path/
 
 news_limit: 10
 
@@ -281,6 +284,8 @@ enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+enable_teaching_categories:  true  # enables categorization of teachings into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
