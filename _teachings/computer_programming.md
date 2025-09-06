@@ -135,7 +135,7 @@ Examples and exercises are drawn from engineering, mathematics, and the physical
       Guttag Ch 1;<br>
       <a href="https://docs.python.org/3/tutorial/" target="_blank">Python tutorial (official)</a>,<br>
       <a href="https://peps.python.org/pep-0008/" target="_blank">PEP 8 style guide</a>,<br>
-      <a href="https://www.alanturing.net/turing_archive/pages/reference%20articles/Turing%27s%20O-Machines.html" target="_blank">Turing Machine</a><br>
+      <a href="https://www.alanturing.net/turing_archive/pages/reference%20articles/Turing%27s%20O-Machines.html" target="_blank">Turing Machine</a><br>, <a href="https://realpython.com/python-bitwise-operators/" target="_blank">Bitwise Operators in Python</a><br>
     </td>
   </tr>
 
@@ -280,9 +280,10 @@ Examples and exercises are drawn from engineering, mathematics, and the physical
     <td></td>
     <td>
       Guttag Ch 23-26;<br>
-      <a href="https://pandas.pydata.org/docs/getting_started/intro_tutorials/" target="_blank">Pandas intro tutorials</a><br>
-      <a href="https://scikit-learn.org/stable/tutorial/basic/tutorial.html" target="_blank">scikit-learn basic tutorial</a><br>
-      <a href="https://realpython.com/python-data-science/" target="_blank">Real Python • Data science pipeline</a>
+      <a href="https://pandas.pydata.org/docs/getting_started/intro_tutorials/" target="_blank">Pandas intro tutorials</a>;<br>
+      <a href="https://scikit-learn.org/stable/tutorial/basic/tutorial.html" target="_blank">scikit-learn basic tutorial</a>;<br>
+      <a href="https://realpython.com/python-data-science/" target="_blank">Real Python • Data science pipeline</a>;<br>
+      <a href="https://www.mathworks.com/products/matlab/matlab-and-python.html" target="_blank">Integrate Python in MATLAB</a> with this <a href="https://www.mathworks.com/content/dam/mathworks/fact-sheet/calling-python-from-matlab-cheat-sheet.pdf?s_v1=61219&elqem=4918544_EM_NA_DIR_25-08_MOE-CG-A&rec_id=ee22b06468874a1e8d7e0a6fedda5901">CheatSheet</a>
     </td>
   </tr>
 
