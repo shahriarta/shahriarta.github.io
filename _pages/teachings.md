@@ -7,20 +7,15 @@ nav: true
 display_categories: [current courses, previous courses]
 horizontal: false
 ---
-<div class="row">
-  <div class="col-md-8">
-   <p indent="2em">
-   I enjoy teaching because each class feels like a shared adventure; we’re explorers learning side by side, and my students’ questions keep my own curiosity vibrant while fostering a warm, inclusive atmosphere. For me, <it>being-in-the-classroom</it> is an existential practice—it allows me to dwell in what Heidegger calls the “authentic experience,” the stance in which we at bottom are able to own up to ourselves.
-   <!-- (Basic Problems of Phenomenology, p. 160) -->
+
+<p indent="2em">
+  I love teaching because every class feels like a shared journey—we’re discovering ideas together, and my students’ questions constantly renew my own curiosity. I strive to create a warm, inclusive atmosphere where learning is not just about answers but about exploration. For me, being in the classroom is more than teaching—it’s a meaningful practice that opens the door to what Heidegger calls “authentic experience”: a way of engaging where we connect deeply with ideas, with one another, and with ourselves as learners; or in his words, "the stance in which we at bottom are able to own up to ourselves."
+  <!-- (Basic Problems of Phenomenology, p. 160) -->
   <br>
-   Below is a list of the current and some of my previous courses:
+  Below is a list of the current and some of my previous courses:
   <br>
-   </p>
-  </div>
-  <div class="col-md-4">
-    {% include figure.html path="/assets/img/teaching-prof.png" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+</p>
+
 
 <!-- pages/teachings.md -->
 <div class="teachings">
