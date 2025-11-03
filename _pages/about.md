@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Boelter Hall (3731K)</p>
+    <p>Eng IV, 38-137F</p>
     <p>580 Portola Plaza,</p>
     <p>Los Angeles, CA 90095</p>
     <p>email: <a href="mailto:s.talebi@ucla.edu">s.talebi@ucla.edu</a></p>
