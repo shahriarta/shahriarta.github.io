@@ -12,7 +12,7 @@ profile:
     <p>420 Westwood Plaza,</p>
     <p>Los Angeles, CA 90095</p>
     <p>email: <a href="mailto:s.talebi@ucla.edu">s.talebi@ucla.edu</a></p>
-
+ 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
