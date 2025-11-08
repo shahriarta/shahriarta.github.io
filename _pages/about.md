@@ -6,9 +6,9 @@ subtitle: Assistant Professor, <a href='https://www.ucla.edu/'>University of Cal
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_prof_pic.jpg
   address: >
-    <p>38-137F Eng IV</p>
+    <p>Eng IV, 38-137F</p>
     <p>420 Westwood Plaza,</p>
     <p>Los Angeles, CA 90095</p>
     <p>email: <a href="mailto:s.talebi@ucla.edu">s.talebi@ucla.edu</a></p>
