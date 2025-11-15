@@ -55,6 +55,7 @@ if (currentTheme === "dark") {
 }
 </script>
 
+
 <details>
 	<summary>...more about me.</summary>
 	I received the B.Sc. degree in electrical engineering from the Sharif 
