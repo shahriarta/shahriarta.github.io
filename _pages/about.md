@@ -47,6 +47,8 @@ My research focuses on developing rigorous mathematical frameworks that leverage
 </p>
 </div>
 
+<p><strong> I'm actively looking for highly motivated individuals at all levels—including Ph.D. students, master’s students, undergraduates, and postdoctoral researchers—to join my research group.</strong> If you are interested, please <a href="{{ site.baseurl }}/prospective-students/">see the prospective students page</a> for more information.</p>
+
 <details>
 	<summary>...more about me.</summary>
 	I received the B.Sc. degree in electrical engineering from the Sharif 
