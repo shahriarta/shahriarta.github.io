@@ -46,8 +46,14 @@ Recently, I had the honor of being interviewed by Rodolphe Sepulchre in <a href=
 My research focuses on developing rigorous mathematical frameworks that leverage geometry, machine learning, and control to study data-driven decision-making and data science. I address challenges in learning and decision-making in complex systems, with a focus on geometric methods for inference and decision-making under uncertainty. I have published over 20 papers and reviewed more than 40 papers (see my <a href='https://www.webofscience.com/wos-researcher-cv/public/3551560/a7c90fc9-e576-4955-a6bf-d7df972d61c7/ShahriarTalebi_Web_of_Science_Researcher_CV.pdf'>Web of Science profile summary</a>). I am a recipient of the Excellence in Teaching Award at the University of Washington and have been recognized with several scholarships and fellowships throughout my academic career.
 </p>
 </div>
-
-<p><strong> I'm actively looking for highly motivated individuals at all levels—including Ph.D. students, master’s students, undergraduates, and postdoctoral researchers—to join my research group.</strong> If you are interested, please <a href="{{ site.baseurl }}/prospective-students/">see the prospective students page</a> for more information.</p>
+<script>
+const currentTheme = localStorage.getItem("theme");
+if (currentTheme === "dark") {
+  document.write('<p style="font-weight: bold; color: yellow;"> I\'m actively looking for highly motivated individuals at all levels—including Ph.D. students, master’s students, undergraduates, and postdoctoral researchers—to join my research group. If you are interested, please <a href="{{ site.baseurl }}/prospective-students/">see the prospective students page</a> for more information.</p>');
+} else {
+  document.write('<p style="font-weight: bold; color: blue;"> I\'m actively looking for highly motivated individuals at all levels—including Ph.D. students, master’s students, undergraduates, and postdoctoral researchers—to join my research group. If you are interested, please <a href="{{ site.baseurl }}/prospective-students/">see the prospective students page</a> for more information.</p>');
+}
+</script>
 
 <details>
 	<summary>...more about me.</summary>
