@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p style="text-align: justify;">
-I am an Assistant Professor with the Samueli School of Engineering at the University of California, Los Angeles <a href='https://www.ucla.edu/'>(UCLA)</a>, affiliated with the Department of Mechanical and Aerospace Engineering <a href='https://mae.ucla.edu/'>(MAE)</a>, as of July 2025.
+I am an Assistant Professor with the Samueli School of Engineering at the University of California, Los Angeles (UCLA), affiliated with the Department of Mechanical and Aerospace Engineering (MAE), as of July 2025.
 </p>
 
 <p style="text-align: justify;">
@@ -27,7 +27,7 @@ My research focuses on developing rigorous mathematical frameworks that leverage
 
 
 <p style="text-align: justify;">
-Prior to joining UCLA, I was a Postdoctoral Research Fellow affiliated with Harvard, the John A. Paulson School of Engineering and Applied Sciences <a href='https://seas.harvard.edu/'>(Harvard SEAS)</a>, working with Professor <a href='https://nali.seas.harvard.edu'>Na (Lina) Li</a>, and the Faculty of Arts and Sciences <a href='https://www.fas.harvard.edu/'>(Harvard FAS)</a>, working with Professor <a href='https://lucasjanson.fas.harvard.edu'>Lucas Janson</a>. I was also involved with the NSF AI Institute in Dynamic Systems <a href='https://dynamicsai.org'>(Dynamics AI)</a>.
+Prior to joining UCLA, I was a Postdoctoral Research Fellow affiliated with Harvard, the John A. Paulson School of Engineering and Applied Sciences (Harvard SEAS), working with Professor <a href='https://nali.seas.harvard.edu'>Na (Lina) Li</a>, and the Faculty of Arts and Sciences (Harvard FAS), working with Professor <a href='https://lucasjanson.fas.harvard.edu'>Lucas Janson</a>. I was also involved with the NSF AI Institute in Dynamic Systems <a href='https://dynamicsai.org'>(Dynamics AI)</a>.
 </p>
 
 <p style="text-align: justify;">
