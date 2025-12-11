@@ -17,7 +17,7 @@ Al-Khwarizmi’s contributions did more than introduce new mathematical techniqu
 
 <p style="text-align: justify;">
 Below is a concise, “PowerPoint-style” overview of how the concept of algorithms evolved—from Al-Khwarizmi’s arithmetic procedures to the computational engines of today. Feel free to build on these points or explore them further:  
- <a href="/assets/powerpoints/Al-Khwarizmi.pdf">Al-Khwarizmi.pdf</a>, and here is the soarce powerpoint file: <a href="/assets/powerpoints/Al-Khwarizmi.pptx">Al-Khwarizmi.pptx</a>
+ <a href="/assets/powerpoints/Al-Khwarizmi.pdf">Al-Khwarizmi.pdf</a>, and here is the source powerpoint file: <a href="/assets/powerpoints/Al-Khwarizmi.pptx">Al-Khwarizmi.pptx</a>
 </p>
 
 ---
