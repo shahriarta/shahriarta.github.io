@@ -9,10 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Shahriar Talebi | blog</title>
+    <title>Shahriar Talebi | 05 - Stabilization</title>
     <meta name="author" content="Shahriar  Talebi" />
-    <meta name="description" content="My personal webpage
-" />
+    <meta name="description" content="A geoemtric approach to fundamental characterization of system-theoretic limitations in online learning and control" />
 
 
     <!-- Bootstrap & MDB -->
@@ -32,7 +31,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://shahriarta.github.io/blog/">
+    <link rel="canonical" href="https://shahriarta.github.io/projects/7_project/">
     
     <!-- Dark Mode -->
     
@@ -71,8 +70,8 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
 
               <!-- Other pages -->
@@ -90,8 +89,8 @@
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -104,61 +103,120 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1>posts</h1>
-    <h2>a few of my thoughts and ideas</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">05 - Stabilization</h1>
+            <p class="post-description">A geoemtric approach to fundamental characterization of system-theoretic limitations in online learning and control</p>
+          </header>
 
+          <article>
+            <figure>
+<center>
+  <img src="/assets/img/projects/stabilization_track.png" alt="Online Stabilization" width="700">
+  <!-- <figcaption>Online Stabilization</figcaption> -->
+</center>
+</figure>
 
-  <ul class="post-list">
-    
+<p>Conventional stabilization techniques typically assess control effectiveness <em>asymptotically</em> and often rely on assumptions like knowing <em>a priori</em> that the initial policy is stabilizing or having persistently exciting input-output data. However, many modern applications require high performance in real-time, relying on online data streams. This shift to online stabilization and decision-making highlights the need for a fundamental characterization of system-theoretic limitations in online learning and control from a finite-time perspective. I introduced the concept of <em>regularizability</em> for linear systems, which measures the ability to regulate a system in finite time <a class="citation" href="#talebi2020online">(Talebi et al., 2020)</a>, contrasting with the traditional asymptotic notions of stabilizability and controllability. Building on this, I proposed a time-varying feedback synthesis procedure that not only regulates the system's state but also generates informative data for use in data-driven control and system identification.</p>
 
-    
-    
-    
-    
+<p>This approach has opened up a number of intriguing design problems using streaming data; for example, it has characterized the properties required to regulate an unstable system on the fly <a class="citation" href="#talebi2021regularizability">(Talebi et al., 2022)</a>, e.g., an aircraft whose previous control policy has become unstable due to damage or misidentification. In particular, <em>it characterizes a fundamental hardness in any online data-driven stabilization problem.</em></p>
 
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2025/algorithms/">Algorithm as Thought by Al-Khwarizmi (Algorithmi)</a>
-        
-      </h3>
-      <p>A short history of algorithms from Al-Khwarizmi to the modern day AI era.</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        December 1, 2025
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2025">
-          <i class="fas fa-calendar fa-sm"></i> 2025 </a>
+<p>Key references:</p>
+<div class="publications">
+<p style="margin-top:50px">
+</p>
+<ol class="bibliography">
+<li>
+<div class="text-justify"><span id="talebi2020online">Talebi, S., Alemzadeh, S., Rahimi, N., &amp; Mesbahi, M. (2020). Online Regulation of Unstable Linear Systems from a Single Trajectory. <i>IEEE Conference on Decision and Control (CDC)</i>, 4784–4789.</span></div>
+<button class="button0" onclick="toggleBibtextalebi2020online()">Bibtex</button>
+ 
 
-          
+ 
 
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/technical">
-              <i class="fas fa-tag fa-sm"></i> technical</a> &nbsp;
-              
-          
-    </p>
-    </li>
+ 
 
-    
-  </ul>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9304196/" target="_blank" rel="noopener noreferrer"><input class="button4" type="button" value="link"></a>
 
-  
+ 
+
+<div id="atalebi2020online" style="display: none;">
+<pre>@inproceedings{talebi2020online,
+  title = {Online Regulation of Unstable Linear Systems from a Single Trajectory},
+  author = {{Talebi}, {Shahriar} and Alemzadeh, Siavash and Rahimi, Niyousha and Mesbahi, Mehran},
+  booktitle = {IEEE Conference on Decision and Control (CDC)},
+  pages = {4784--4789},
+  year = {2020},
+  organization = {IEEE},
+  link = {https://ieeexplore.ieee.org/abstract/document/9304196/}
+}
+</pre>
+</div>
+<script>
+function toggleBibtextalebi2020online(parameter) {
+    var x= document.getElementById('atalebi2020online');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li>
+<div class="text-justify"><span id="talebi2021regularizability">Talebi, S., Alemzadeh, S., Rahimi, N., &amp; Mesbahi, M. (2022). On Regularizability and its Application to Online Control of Unstable LTI Systems. <i>IEEE Trans on Automatic Control (TAC)</i>, <i>67</i>(12), 6413–6428.</span></div>
+<button class="button0" onclick="toggleBibtextalebi2021regularizability()">Bibtex</button>
+ 
+
+ 
+
+ 
+
+    <a href="https://ieeexplore.ieee.org/abstract/document/9627635/" target="_blank" rel="noopener noreferrer"><input class="button4" type="button" value="link"></a>
+
+ 
+
+<div id="atalebi2021regularizability" style="display: none;">
+<pre>@article{talebi2021regularizability,
+  title = {On Regularizability and its Application to Online Control of Unstable LTI Systems},
+  author = {{Talebi}, {Shahriar} and Alemzadeh, Siavash and Rahimi, Niyousha and Mesbahi, Mehran},
+  journal = {IEEE Trans on Automatic Control ({TAC})},
+  year = {2022},
+  volume = {67},
+  number = {12},
+  pages = {6413-6428},
+  publisher = {IEEE},
+  link = {https://ieeexplore.ieee.org/abstract/document/9627635/},
+  selected = true
+}
+</pre>
+</div>
+<script>
+function toggleBibtextalebi2021regularizability(parameter) {
+    var x= document.getElementById('atalebi2021regularizability');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+</ol>
 
 </div>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2026 Shahriar  Talebi. Powered by Jekyll with al-folio theme.
+        © Copyright 2026 Shahriar  Talebi. Powered by Jekyll with al-folio theme.
 Last updated: January 16, 2026.
       </div>
     </footer>

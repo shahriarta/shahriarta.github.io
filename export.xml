@@ -1,30 +1,103 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts %}
+    <title>Shahriar Talebi</title>
+    <description>My personal webpage
+</description>
+    <link>https://shahriarta.github.io/</link>
+    <atom:link href="https://shahriarta.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Jan 2026 03:45:40 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 03:45:40 +0000</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Algorithm as Thought by Al-Khwarizmi (Algorithmi)</title>
+        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
+The word &lt;em&gt;algorithm&lt;/em&gt; traces back to the 9th-century Persian mathematician &lt;strong&gt;Muhammad ibn Mūsā al-Khwarizmi&lt;/strong&gt;, whose influential works on arithmetic and algebra shaped early mathematics from Central Asia to Europe. When his writings were translated into Latin during the Middle Ages, his name became &lt;em&gt;Algorithmi&lt;/em&gt;—a transformation that eventually gave rise to the modern term.  
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+Al-Khwarizmi’s contributions did more than introduce new mathematical techniques: they established a structured, repeatable, and logical approach to problem-solving. This spirit of step-by-step reasoning is precisely what we now call an &lt;strong&gt;algorithm&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+Below is a concise, “PowerPoint-style” overview of how the concept of algorithms evolved—from Al-Khwarizmi’s arithmetic procedures to the computational engines of today. Feel free to build on these points or explore them further:  
+ &lt;a href=&quot;/assets/powerpoints/Al-Khwarizmi.pdf&quot;&gt;Al-Khwarizmi.pdf&lt;/a&gt;, and here is the source powerpoint file: &lt;a href=&quot;/assets/powerpoints/Al-Khwarizmi.pptx&quot;&gt;Al-Khwarizmi.pptx&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;a-brief-historical-arc-of-algorithms&quot;&gt;A Brief Historical Arc of Algorithms&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-the-foundations--al-khwarizmi-9th-century&quot;&gt;&lt;strong&gt;1. The Foundations — Al-Khwarizmi (9th century)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Authored &lt;em&gt;Kitāb al-Jabr wa-l-Muqābala&lt;/em&gt;, which systematized algebra.&lt;/li&gt;
+  &lt;li&gt;Introduced procedural arithmetic methods, especially for Hindu–Arabic numerals.&lt;/li&gt;
+  &lt;li&gt;His structured problem-solving techniques became early algorithmic templates.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-medieval-transmission-12th15th-centuries&quot;&gt;&lt;strong&gt;2. Medieval Transmission (12th–15th centuries)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Translations into Latin spread his methods across Europe.&lt;/li&gt;
+  &lt;li&gt;The term &lt;em&gt;algorismus&lt;/em&gt; referred to rules for computation with the new numeral system.&lt;/li&gt;
+  &lt;li&gt;Algorithms began to be seen as formal procedures rather than ad-hoc methods.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-early-mechanical-computation-17th19th-centuries&quot;&gt;&lt;strong&gt;3. Early Mechanical Computation (17th–19th centuries)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thinkers like Pascal, Leibniz, and Babbage designed mechanical calculators.&lt;/li&gt;
+  &lt;li&gt;These machines executed fixed, well-defined sequences—physical algorithms.&lt;/li&gt;
+  &lt;li&gt;Abstraction grew: procedures could be separated from the machine itself.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-mathematical-formalization-20th-century&quot;&gt;&lt;strong&gt;4. Mathematical Formalization (20th century)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hilbert’s Entscheidungsproblem prompted the search for a rigorous definition.&lt;/li&gt;
+  &lt;li&gt;Church, Turing, and Gödel formalized algorithmic computability.&lt;/li&gt;
+  &lt;li&gt;Turing machines became the standard model for “effective procedures.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-the-digital-age-1950s2000s&quot;&gt;&lt;strong&gt;5. The Digital Age (1950s–2000s)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Algorithms expanded into sorting, searching, optimization, cryptography, and more.&lt;/li&gt;
+  &lt;li&gt;Programming languages allowed humans to express algorithms precisely.&lt;/li&gt;
+  &lt;li&gt;Complexity theory emerged to measure efficiency (e.g., O(n log n)).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;6-the-algorithmic-world-2000s&quot;&gt;&lt;strong&gt;6. The Algorithmic World (2000s–)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Algorithms now power search engines, recommendation systems, mobile apps, robotics, and finance.&lt;/li&gt;
+  &lt;li&gt;Machine learning introduced data-driven algorithms that &lt;em&gt;learn&lt;/em&gt; patterns rather than being fully hand-designed.&lt;/li&gt;
+  &lt;li&gt;Ethical and societal questions—fairness, transparency, privacy—became central.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;7-the-generative-ai-era-2014&quot;&gt;&lt;strong&gt;7. The Generative AI Era (2014–)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Generative models and Transformers enabled models that learn patterns from massive data instead of fixed rules.&lt;/li&gt;
+  &lt;li&gt;Generative AI creates text, images, code, and more.&lt;/li&gt;
+  &lt;li&gt;Foundation models handle many tasks with a single architecture.&lt;/li&gt;
+  &lt;li&gt;Focus shifts from writing algorithms to shaping data, training, and alignment.&lt;/li&gt;
+  &lt;li&gt;This era brings new challenges in trust, &lt;strong&gt;safety&lt;/strong&gt;, and interpretability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;why-al-khwarizmi-still-matters&quot;&gt;Why Al-Khwarizmi Still Matters&lt;/h2&gt;
+&lt;p&gt;Even though modern algorithms run on unimaginable scales across billions of devices, the core idea remains faithful to Al-Khwarizmi’s legacy:&lt;br /&gt;
+&lt;strong&gt;a finite, logical sequence of steps that transforms input into meaningful output.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;His name survives not just in terminology but in the intellectual DNA of computer science itself.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Mon, 01 Dec 2025 15:59:00 +0000</pubDate>
+        <link>https://shahriarta.github.io/blog/2025/algorithms/</link>
+        <guid isPermaLink="true">https://shahriarta.github.io/blog/2025/algorithms/</guid>
+        
+        
+        <category>technical</category>
+        
       </item>
-    {% endfor %}
+    
   </channel>
 </rss>

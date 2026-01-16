@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Shahriar Talebi | blog</title>
+    <title>Shahriar Talebi | teaching</title>
     <meta name="author" content="Shahriar  Talebi" />
     <meta name="description" content="My personal webpage
 " />
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://shahriarta.github.io/blog/">
+    <link rel="canonical" href="https://shahriarta.github.io/teachings/">
     
     <!-- Dark Mode -->
     
@@ -71,8 +71,8 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
 
               <!-- Other pages -->
@@ -85,13 +85,13 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/projects/">research</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/teachings/">teaching</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/teachings/">teaching<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -104,61 +104,104 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1>posts</h1>
-    <h2>a few of my thoughts and ideas</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">teaching</h1>
+            <p class="post-description"></p>
+          </header>
 
+          <article>
+            <p indent="2em">
+  I love teaching because every class feels like a shared journey—we’re discovering ideas together, and my students’ questions constantly renew my own curiosity. I strive to create a warm, inclusive atmosphere where learning is not just about answers but about exploration. For me, being in the classroom is more than teaching—it’s a meaningful practice that opens the door to what Heidegger calls “authentic experience”: a way of engaging where we connect deeply with ideas, with one another, and with ourselves as learners; or in his words, "the stance in which we at bottom are able to own up to ourselves."
+  <!-- (Basic Problems of Phenomenology, p. 160) -->
+  <br>
+  Below is a list of the current and some of my previous courses:
+  <br>
+</p>
 
-  <ul class="post-list">
-    
+<!-- pages/teachings.md -->
+<div class="teachings">
+  <!-- Display categorized teachings -->
+  <h2 class="category">current courses</h2>
+  <!-- Generate cards for each teaching -->
+  <div class="grid">
+<!-- _includes/teachings.html -->
+<div class="grid-sizer"></div>
+<!-- Adjust the width of each teaching card -->
+<div class="grid-item" style="width: 350px; margin: 15px;">
+  <a href="/teachings/computer_programming/">
+      <!-- Adjust the width of each teaching card by adding this below: style="height: 300px; padding: 20px;"-->
+      <div class="card hoverable">
+<figure>
 
-    
-    
-    
-    
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/teachings/CP-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/teachings/CP-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/teachings/CP-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/teachings/CP.png" alt="teaching thumbnail">
 
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2025/algorithms/">Algorithm as Thought by Al-Khwarizmi (Algorithmi)</a>
-        
-      </h3>
-      <p>A short history of algorithms from Al-Khwarizmi to the modern day AI era.</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        December 1, 2025
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2025">
-          <i class="fas fa-calendar fa-sm"></i> 2025 </a>
+  </picture>
 
-          
+</figure>
 
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/technical">
-              <i class="fas fa-tag fa-sm"></i> technical</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  
-
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Computer Programming with Python</h2>
+          <p class="card-text">Computer Programming with Python M 20 P (Fall 2025 @ UCLA)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
 </div>
+  </div>
+  <h2 class="category">previous courses</h2>
+  <!-- Generate cards for each teaching -->
+  <div class="grid">
+<!-- _includes/teachings.html -->
+<div class="grid-sizer"></div>
+<!-- Adjust the width of each teaching card -->
+<div class="grid-item" style="width: 350px; margin: 15px;">
+  <a href="/teachings/networked_dynamics/">
+      <!-- Adjust the width of each teaching card by adding this below: style="height: 300px; padding: 20px;"-->
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/teachings/network-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/teachings/network-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/teachings/network-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/teachings/network.jpg" alt="teaching thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Networked Dynamic Systems</h2>
+          <p class="card-text">Networked Dynamic Systems AA 597 (Spring 2022 @ UW)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+</div>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2026 Shahriar  Talebi. Powered by Jekyll with al-folio theme.
+        © Copyright 2026 Shahriar  Talebi. Powered by Jekyll with al-folio theme.
 Last updated: January 16, 2026.
       </div>
     </footer>
