@@ -70,7 +70,7 @@ from the University of Central Florida (UCF), Orlando, FL, USA, in 2017, both in
 control theory. I have published over 20 papers and reviewed more than 40 papers (see my <a href='https://www.webofscience.com/wos-researcher-cv/public/3551560/a7c90fc9-e576-4955-a6bf-d7df972d61c7/ShahriarTalebi_Web_of_Science_Researcher_CV.pdf'>Web of Science profile summary</a>). I am a recipient of the Excellence in Teaching Award at the University of Washington and have been recognized with several scholarships and fellowships throughout my academic career. I'm honored by the 2022 Excellence in Teaching Award at the University of Washington.
 I'm also a recipient of William E. Boeing Endowed Fellowship, Paul A. 
 Carlstedt Endowment, and Latvian Arctic Pilot–A. Vagners Memorial Scholarship with UW 
-in 2018 and 2019, and Frank Hubbard Engineering Scholarship with UCF in 2017. 
+in 2018 and 2019, and Frank Hubbard Engineering Scholarship with UCF in 2017. If you are interested in Mathematics Genealogy, you can see my <a href='https://www.mathgenealogy.org/id.php?id=333805'>Mathematics Genealogy Project profile</a>.
 </p>
 </details>
 <br>
