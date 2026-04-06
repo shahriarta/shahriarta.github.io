@@ -13,6 +13,14 @@ horizontal: false
 
 <hr>
 
+<h2>potential research overlap</h2>
+<p> I am looking for motivated PhD students interested in working at the intersection of control and estimation theory, machine learning, and applied mathematics. My research focuses on developing data-driven methods for decision-making in complex and uncertain systems, with a particular emphasis on geometric approaches to learning and optimization. With the rapid advancement of AI, this is an exciting time to study online data assimilation and decision-making under increasingly demanding performance requirements. Current research directions include policy optimization on nonlinear spaces, reinforcement learning, multi-agent coordination, and learning-based control without requiring full system models. The overarching goal is to develop principled, scalable algorithms for real-world systems where uncertainty and structure are fundamental—what I broadly refer to as trustworthy AI.</p>
+
+<p>Students working with me will gain experience in both rigorous theoretical analysis and practical algorithm design, with opportunities to contribute to cutting-edge research and publish in leading venues. Ideal candidates have a strong background in mathematics, control, or machine learning, and are interested in bridging theory and applications to improve the safety and reliability of critical systems, such as commercial aviation, urban air mobility, etc. . If you are interested in how geometry and data can be combined to enhance decision-making in dynamic systems, I encourage you to reach out and explore potential research opportunities.</p>
+
+<hr>
+
+
 <h2>what to include in your email</h2>
 
 <p>To ensure I can properly assess the potential fit, your initial email should include the following attachments and information:</p>
@@ -51,7 +59,7 @@ horizontal: false
 
 <h2>master’s and undergraduate students</h2>
 
-<p>If you are currently affiliated with UCLA (or will be starting soon) and are interested in research, please <strong>email me directly</strong> as detailed above. We can discuss opportunities for independent study, capstone projects, or research assistant positions within the <strong>MAE Department</strong>. Non-UCLA students interested in a <strong>summer research internship</strong> should also reach out via email by <strong>March 1st</strong> of the year they wish to intern.</p>
+<p>If you are currently affiliated with UCLA (or will be starting soon) and are interested in research, please <strong>email me directly</strong> as detailed above. We can discuss opportunities for independent study, capstone projects, or research assistant positions. Non-UCLA students interested in a <strong>summer research internship</strong> should also reach out via email by <strong>April 1st</strong> of the year they wish to intern.</p>
 
 <hr>
 

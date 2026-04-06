@@ -14,6 +14,11 @@ horizontal: false
   <!-- <figcaption>Main Research Tracks</figcaption> -->
 </center>
 </figure>
+
+My research lies at the intersection of control and estimation theory, machine learning, and applied mathematics, with a focus on data-driven decision-making in complex and uncertain systems. A central theme of my work is the use of geometric structure to design learning and optimization algorithms, particularly from data pertinent to dynamical systems. With the rapid advancement of AI, there is a growing need for methods that can perform online data assimilation and decision-making under increasingly stringent performance and reliability requirements.
+
+My work explores topics such as policy optimization on nonlinear manifolds, reinforcement learning, multi-agent coordination, and learning-based control without relying on fully known system models. The overarching objective is to develop principled and scalable algorithms that can operate reliably in real-world settings where uncertainty and structure are intrinsic. More broadly, this direction aims toward what I describe as trustworthy AI—ensuring that learning-enabled systems are robust, interpretable, and suitable for safety-critical applications such as autonomous systems and advanced mobility.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
