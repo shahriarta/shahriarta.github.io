@@ -235,6 +235,21 @@ blockquote {
   color: var(--global-text-color);
 }
 
+// Teachings
+
+.teachings-list table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.teachings-list table th {
+  color: var(--global-text-color);
+}
+
+.teachings-list h2.category {
+  margin-top: 1.5rem;
+}
+
 // Social (bottom)
 
 .social {

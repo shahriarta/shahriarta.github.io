@@ -6,7 +6,11 @@
 {% if entry.doi %}
     <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
 {% endif %}
- 
+
+{% if entry.pdf %}
+    <a href="{{ entry.pdf | relative_url }}" target="_blank" rel="noopener noreferrer"><input class="button1" type="button" value="pdf" /></a>
+{% endif %}
+
 {% if entry.preprint %}
     <a href="{{ entry.preprint }}"><input class="button2" type="button" value="preprint" /></a>
 {% endif %}

@@ -3,8 +3,7 @@ layout: page
 title: Networked Dynamic Systems
 description: Networked Dynamic Systems AA 597 (Spring 2022 @ UW)
 img: /assets/img/teachings/network.jpg
-importance: 2
-category: previous courses
+date: 2022-03-01
 ---
 
 

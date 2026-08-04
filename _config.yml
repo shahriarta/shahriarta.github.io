@@ -121,6 +121,9 @@ collections:
 
 news_limit: 10
 
+# Publish content dated in the future (e.g. upcoming courses, scheduled news)
+future: true
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------

@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Computer Programming with Python
+title: MAE 20P
 description: Computer Programming with Python M 20 P (Fall 2025 @ UCLA)
 img: /assets/img/teachings/CP.png
-importance: 1
-category: current courses
+date: 2025-09-01
 ---
 
 <div class="row">
