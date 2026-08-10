@@ -30,7 +30,17 @@
       "Read(//private/tmp/_site_test4/teachings/mae_270c/**)",
       "Read(//private/tmp/_site_test4/teachings/**)",
       "Bash(rm -rf /tmp/_site_test4)",
-      "Bash(pdfinfo \"/Users/sht571/Library/CloudStorage/Box-Box/Teaching/cm146/Slides/CM146F25-01-updated.pdf\")"
+      "Bash(pdfinfo \"/Users/sht571/Library/CloudStorage/Box-Box/Teaching/cm146/Slides/CM146F25-01-updated.pdf\")",
+      "Bash(grep -rl \"mybibtemplate\" /Users/sht571/shahriarta.github.io --include=\"*.liquid\" --include=\"*.html\" -not -path \"*/_site/*\")",
+      "Bash(find / -iname \"*bibtex.html*\" -path \"*jekyll-scholar*\")",
+      "Bash(bundle show *)",
+      "Bash(gem contents *)",
+      "Bash(python3 *)",
+      "Bash(pkill -f \"jekyll serve --no-watch --port 4444\")",
+      "Bash(git check-ignore *)",
+      "Bash(echo \"ignored: $?\")",
+      "Bash(grep *)",
+      "Read(//tmp/**)"
     ]
   }
 }

@@ -241,6 +241,27 @@ scholar:
 
   query: "@*"
 
+  # Reverse-chronological order (newest first) within each group.
+  sort_by: [year, month_numeric]
+  order: descending
+
+  # Group publications by type: journal papers combined with book
+  # chapters/theses/dissertations first, then venue-less preprints, then
+  # conference papers.
+  type_order: [thesis, misc, inproceedings]
+  type_names:
+    misc: "Preprints and Under Review"
+    thesis: "Journal Articles, Book Chapters & Theses"
+    inproceedings: "Conference Proceedings"
+  type_aliases:
+    incollection: thesis
+    article: thesis
+
+  # Number each group's <ol> in reverse, so the newest entry (listed first)
+  # gets the largest number and the oldest gets 1.
+  bibliography_list_attributes:
+    reversed: true
+
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
