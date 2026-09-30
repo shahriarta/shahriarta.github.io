@@ -1,17 +1,132 @@
 ---
 layout: page
-title: MAE 271A
-description: MAE 271A (Fall 2026 @ UCLA)
+title: MECH&amp;AE 271A (cross-listed 175A)
+description: Probability and Stochastic Processes in Dynamical Systems MAE 271A (Fall 2026 @ UCLA)
 date: 2026-09-01
 ---
 
-<p>Course page coming soon &mdash; the full syllabus, schedule, and lecture notes for MAE 271A will be posted here ahead of Fall 2026.</p>
+<p>A rigorous and computational introduction to <strong>probability, stochastic processes, and estimation in dynamical systems</strong>, with emphasis on applications in autonomy, robotics, and physical AI. The course develops estimation from first principles as probabilistic inference under uncertainty. Starting from probability spaces, random variables, conditional expectation, and stochastic processes, we develop minimum mean-square estimation, state-space models, Bayesian filtering, Kalman filtering and smoothing, nonlinear filtering, and sequential Monte Carlo methods. Time permitting, we also study inference when the underlying model is uncertain or learned from data, including joint state and parameter estimation, expectation-maximization, differentiable state estimation, model mismatch, and distribution shift. Throughout the course, mathematical foundations are paired with computational modules in which students implement and investigate estimation algorithms on dynamical systems.</p>
 
 <p><strong>Instructor's bio:</strong> Shahriar Talebi is an Assistant Professor in the Department of Mechanical &amp; Aerospace Engineering at the UCLA Samueli School of Engineering (since July 2025). Before UCLA, he was a Postdoctoral Research Fellow at Harvard University and a contributor to the NSF AI Institute in Dynamic Systems (Dynamics AI). He received a Ph.D. in control theory from the University of Washington in 2023&mdash;focusing on constrained decision-making and control in complex systems&mdash;and an M.Sc. in Mathematics (differential geometry) from UW.</p>
 
 <p style="font-size: 15pt;"><strong>Course Logistics</strong></p>
 <ul>
+    <li><strong>Course:</strong> MECH&amp;AE C271A (cross-listed as MECH&amp;AE 175A), 4 units</li>
+    <li><strong>Concurrent course:</strong> MECH&amp;AE C175A</li>
     <li><strong>Instructor:</strong> Dr. Shahriar Talebi, <a href="mailto:s.talebi@ucla.edu">s.talebi@ucla.edu</a>, office: Eng IV, 38-137F</li>
-    <li><strong>Term:</strong> Fall 2026 @ UCLA</li>
-    <li><em>Lecture times, location, and office hours to be announced.</em></li>
+    <li><strong>Prerequisites:</strong> Familiarity with linear algebra, differential equations, and undergraduate probability. Prior exposure to dynamical systems and linear systems is helpful.</li>
+    <li><strong>Lectures:</strong> MW 12:00 PM-1:50 PM in Boelter Hall 9436</li>
+    <li><strong>Office hours:</strong> TBD</li>
 </ul>
+
+<p style="font-size: 15pt;"><strong>Main Textbook</strong></p>
+<ol>
+     <li>J. L. Speyer and W. H. Chung, <em>Stochastic Processes, Estimation, and Control</em>, Society for Industrial and Applied Mathematics, 2008 &mdash; applications of probability and stochastic strategies to model uncertainty for estimation problems.</li>
+</ol>
+
+<p style="font-size: 15pt;"><strong>Additional Resources</strong></p>
+<ul>
+    <li>R. Durrett, <em>Probability: Theory and Examples</em>, 5th ed., Cambridge University Press, 2019 &mdash; graduate mathematics for probability-theoretic foundations and stochastic processes.</li>
+    <li>T. D. Barfoot, <em>State Estimation for Robotics</em>, 2nd ed., Cambridge University Press, 2024 &mdash; Applied modern state estimation, nonlinear estimation, robustness, and robotics applications.</li>
+    <li>S. S&auml;rkk&auml; and L. Svensson, <em>Bayesian Filtering and Smoothing</em>, 2nd ed., Cambridge University Press, 2023 &mdash; a Bayesian perspective to filtering and estimation.</li>
+    <li>T. Kailath, A. H. Sayed, and B. Hassibi, <em>Linear Estimation</em>, Prentice Hall, 2000 &mdash; classical reference for projection, orthogonality, innovations, and linear estimation.</li>
+    <li>Selected research papers and instructor notes will be distributed throughout the course.</li>
+    
+</ul>
+
+<p style="font-size: 15pt;"><strong>Course Philosophy</strong></p>
+<p>The course is organized around a unifying view of estimation as <strong>inference about hidden quantities from incomplete and noisy information</strong>. Classical methods such as least squares and Kalman filtering and modern approaches based on Monte Carlo inference and learned dynamical models are developed within the same probabilistic framework. Particular emphasis is placed on understanding the assumptions behind an estimator, how uncertainty is represented and propagated, and how those assumptions fail in real dynamical and autonomous systems.</p>
+<p>The mathematical progression of the course is:</p>
+<p style="text-align: center;"><strong>Probability &rarr; Conditional Expectation &rarr; Stochastic Dynamics &rarr; Bayesian Inference &rarr; Kalman Filtering &rarr; Nonlinear Inference &rarr; Learning &rarr; Autonomous Systems</strong></p>
+
+<p style="font-size: 15pt;"><strong>Learning Objectives</strong></p>
+<p>By the end of this course, students will be able to formulate uncertainty in dynamical systems using probability spaces, random variables, stochastic processes, and state-space models; work with conditional expectation and interpret minimum mean-square estimation as an orthogonal projection in an appropriate Hilbert space; analyze Gaussian random vectors and derive optimal estimators from conditional distributions and covariance information; formulate filtering, prediction, and smoothing as Bayesian inference problems; derive and implement the Kalman filter and smoother from both probabilistic and minimum-variance perspectives; construct approximate estimators for nonlinear and non-Gaussian systems using linearization, sigma-point, and Monte Carlo methods; formulate joint state and parameter estimation and likelihood-based learning problems for dynamical systems; assess estimator consistency, robustness, and sensitivity to model mismatch; and combine model-based and data-driven components in modern state-estimation architectures for autonomous systems. Students will also develop computational proficiency by implementing estimation algorithms from first principles and evaluating their behavior on simulated and physical dynamical systems.</p>
+
+<p style="font-size: 15pt;"><strong>Topics</strong></p>
+<ul>
+    <li><strong>Probability and conditional inference</strong> &mdash; Probability spaces, random variables, expectation, Gaussian random vectors, conditional probability, conditional expectation, MMSE estimation, orthogonality, and linear minimum mean-square estimation.</li>
+    <li><strong>Stochastic processes and dynamical models</strong> &mdash; Stochastic sequences and processes, covariance functions, Gaussian and Markov processes, state-space models, and propagation of uncertainty through dynamical systems.</li>
+    <li><strong>Bayesian and linear-Gaussian estimation</strong> &mdash; Bayesian filtering recursion, Kalman filtering, innovations, covariance and information forms, numerical considerations, smoothing, and trajectory estimation.</li>
+    <li><strong>Nonlinear and non-Gaussian estimation</strong> &mdash; Extended Kalman filtering, sigma-point and unscented filtering, Monte Carlo inference, importance sampling, particle filtering, and limitations of approximate inference.</li>
+    <li><strong>Learning and adaptive estimation</strong> &mdash; Joint state and parameter estimation, identifiability, adaptive estimation, maximum likelihood, expectation-maximization, and learning state-space models from data.</li>
+    <li><strong>Estimation for autonomous systems</strong> &mdash; Differentiable estimation, hybrid physics-learning models, estimator consistency, model mismatch, distribution shift, robustness, and integration of probabilistic inference into modern autonomous systems.</li>
+</ul>
+
+<!-- <p style="font-size: 15pt;"><strong>Computational Modules</strong></p>
+<p>Computational exercises are integrated with the theoretical development of the course. The objective is not merely to use existing estimation software, but to implement key algorithms from first principles, test their mathematical assumptions, and understand their failure modes. Python will be the primary computational language, using NumPy, SciPy, and Matplotlib; selected later modules may use PyTorch or JAX for automatic differentiation and learned models.</p>
+<ul>
+<li><strong>Module 1 &mdash; Monte Carlo probability:</strong> empirical distributions, nonlinear transformations of random variables, and convergence of sample averages.</li>
+<li><strong>Module 2 &mdash; Stochastic processes:</strong> simulation of white noise, random walks, autoregressive processes, and empirical estimation of covariance functions.</li>
+<li><strong>Module 3 &mdash; Uncertainty propagation:</strong> comparison of analytical covariance propagation, linearization, and Monte Carlo methods through nonlinear dynamics.</li>
+<li><strong>Module 4 &mdash; Kalman filtering:</strong> implementation of a Kalman filter from first principles; visualization of uncertainty; innovation and consistency analysis.</li>
+<li><strong>Module 5 &mdash; Nonlinear Gaussian filtering:</strong> implementation and comparison of EKF and sigma-point methods on a nonlinear dynamical system.</li>
+<li><strong>Module 6 &mdash; Particle filtering:</strong> sequential importance sampling and resampling; comparison with Gaussian filters on a nonlinear or multimodal estimation problem.</li>
+<li><strong>Module 7 &mdash; Learning and estimation:</strong> estimation with uncertain dynamics and comparison of physics-only, learned, and hybrid physics-learning models.</li>
+</ul>
+
+<p style="font-size: 15pt;"><strong>Final Project (tentative)</strong></p>
+<p>The final project asks students to formulate and investigate an estimation problem arising in a dynamical or autonomous system. Projects should combine mathematical modeling with computational evaluation and clearly identify the hidden variables, observations, probabilistic assumptions, estimator, and sources of uncertainty. Students are expected not only to report estimation accuracy, but also to investigate uncertainty, consistency, model mismatch, and failure modes. Suitable projects may involve robotic localization, navigation, tracking, inertial sensing, parameter estimation in mechanical systems, nonlinear filtering, hybrid physics-learning estimation, or another application approved by the instructor.</p> -->
+
+
+<p style="font-size: 15pt;"><strong>Grading</strong></p>
+<ul>
+<li><strong>Problem Sets</strong> &mdash; 0%</li>
+<li><strong>Computational Assignments</strong> &mdash; 0%</li>
+<li><strong>Reading Assignments</strong> &mdash; 0%</li>
+<li><strong>Midterm Exam</strong> &mdash; 40%</li>
+<li><strong>Final Exam + Final Project</strong> &mdash; 60%</li>
+</ul>
+
+<!-- 
+<p style="font-size: 15pt;"><strong>Lecture Notes &mdash; Table of Contents</strong></p>
+<table style="width: 100%;" border="1" cellspacing="0" cellpadding="8">
+<thead><tr><th colspan="3"><p style="font-size: 20pt;">Table of Contents</p></th></tr><tr><th>Lecture</th><th>Topic</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>1</td><td><strong>Probability models for uncertain physical systems:</strong> probability spaces, events, probability measures, random variables as measurable maps, distributions, and examples from sensing and dynamical systems</td><td>Coming soon</td></tr>
+<tr><td>2</td><td><strong>Expectation and Gaussian random vectors:</strong> expectation as integration, moments, covariance matrices, affine transformations, Gaussian distributions, and geometry of uncertainty</td><td>Coming soon</td></tr>
+
+<tr><td>3</td><td><strong>Conditional probability and conditional expectation:</strong> Bayes' rule, conditional distributions, conditioning on information, conditional expectation with respect to a sigma-algebra, and laws of total expectation and variance</td><td>Coming soon</td></tr>
+<tr><td>4</td><td><strong>Minimum mean-square estimation:</strong> conditional expectation as an L<sup>2</sup> projection, orthogonality principle, MMSE and LMMSE estimators, Gaussian conditioning, and connections to least squares</td><td>Coming soon</td></tr>
+<tr><td>5</td><td><strong>Stochastic processes:</strong> stochastic sequences, finite-dimensional distributions, mean and autocovariance functions, stationarity, white noise, Gaussian processes, and autoregressive models</td><td>Coming soon</td></tr>
+<tr><td>6</td><td><strong>Markov processes and state-space models:</strong> Markov property, transition models, hidden states, process and measurement noise, conditional independence, and probabilistic graphical representations of dynamical systems</td><td>Coming soon</td></tr>
+<tr><td>7</td><td><strong>Propagation of uncertainty through dynamics:</strong> mean and covariance propagation, linear dynamical systems, nonlinear transformations, linearization, and Monte Carlo uncertainty propagation</td><td>Coming soon</td></tr>
+<tr><td>8</td><td><strong>Bayesian filtering:</strong> prediction and measurement-update recursions, filtering versus prediction and smoothing, recursive probabilistic inference, and why the linear-Gaussian case is special</td><td>Coming soon</td></tr>
+<tr><td>9</td><td><strong>The Kalman filter I &mdash; derivation:</strong> linear-Gaussian state-space models, Gaussian conditioning, innovation, Kalman gain, covariance recursion, and derivations from Bayesian inference and orthogonal projection</td><td>Coming soon</td></tr>
+<tr><td>10</td><td><strong>The Kalman filter II &mdash; structure and computation:</strong> uncertainty geometry, Joseph covariance form, information form, innovations, steady-state filtering, Riccati recursion, consistency, and numerical considerations</td><td>Coming soon</td></tr>
+<tr><td>11</td><td><strong>Smoothing and trajectory estimation:</strong> filtering versus smoothing, Rauch&ndash;Tung&ndash;Striebel smoothing, fixed-lag and fixed-interval estimation, MAP trajectory estimation, and connections to weighted least squares</td><td>Coming soon</td></tr>
+<tr><td>12</td><td><strong>Nonlinear Bayesian filtering:</strong> exact nonlinear filtering recursion, loss of Gaussian closure, multimodal posteriors, assumed-density approximations, and a taxonomy of approximate inference methods</td><td>Coming soon</td></tr>
+<tr><td>13</td><td><strong>Extended Kalman filtering:</strong> linearization of nonlinear dynamics and observations, Jacobian-based uncertainty propagation, error-state interpretation, consistency, divergence, and failure modes</td><td>Coming soon</td></tr>
+<tr><td>14</td><td><strong>Sigma-point and unscented filtering:</strong> deterministic sampling, unscented transform, propagation of moments through nonlinear maps, unscented Kalman filtering, and comparison with linearization-based methods</td><td>Coming soon</td></tr>
+<tr><td>15</td><td><strong>Monte Carlo and particle filtering:</strong> Monte Carlo integration, importance sampling, sequential importance sampling, resampling, particle filtering, effective sample size, degeneracy, and the curse of dimensionality</td><td>Coming soon</td></tr>
+<tr><td>16</td><td><strong>Joint state and parameter estimation:</strong> unknown model parameters, augmented-state estimation, identifiability, sensor biases, adaptive filtering, parameter uncertainty, and dual estimation</td><td>Coming soon</td></tr>
+<tr><td>17</td><td><strong>Learning dynamical models from incomplete data:</strong> likelihood in state-space models, latent trajectories, maximum-likelihood estimation, expectation-maximization, smoothing in the E-step, and parameter learning</td><td>Coming soon</td></tr>
+<tr><td>18</td><td><strong>Differentiable estimation and learned dynamics:</strong> differentiating through state estimators, learned transition and observation models, residual dynamics, hybrid physics-learning models, and uncertainty-aware learning</td><td>Coming soon</td></tr>
+<tr><td>19</td><td><strong>Robustness, model mismatch, and distribution shift:</strong> misspecified process and measurement models, outliers and heavy-tailed noise, innovation-based diagnostics, covariance calibration, adaptive uncertainty models, and estimator behavior outside the modeling distribution</td><td>Coming soon</td></tr>
+<tr><td>20</td><td><strong>State estimation for autonomous systems:</strong> integration of sensing, dynamics, probabilistic inference, learned models, and uncertainty; case study in robotic or autonomous state estimation; limitations and open research directions</td><td>Coming soon</td></tr>
+</tbody></table> -->
+
+
+<!-- ===== Syllabus PDF ===== -->
+<!-- <p style="font-size:15pt"><b>Syllabus PDF</b></p>
+<button onclick="window.print()">Print/save the syllabus as PDF</button> -->
+
+
+<style>
+  @media print {
+    /* Hide the print button itself when printing */
+    .print-btn { display: none; }
+
+    /* Remove browser-added headers and footers */
+    @page {
+      margin: 0.5in;  /* adjust as needed */
+    }
+  }
+</style>
+
+<!-- ===== Syllabus PDF ===== -->
+<p style="font-size:15pt"><b>Syllabus PDF</b></p>
+<button class="print-btn"
+        onclick="window.print()"
+        style="color: black;">
+  Print/save the syllabus as PDF
+</button>

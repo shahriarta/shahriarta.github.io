@@ -44,7 +44,7 @@ horizontal: false
 
 <h2>prospective Ph.D. students</h2>
 
-<p>I am currently recruiting motivated Ph.D. students interested in <strong>Geometric Learning and Control, Data-Driven Decision-Making, and Mathematical Foundations of Machine Learning</strong>. I anticipate recruiting students primarily during the regular application cycle in <strong>December 2025 for Fall 2026</strong> admission.</p>
+<p>I am currently recruiting motivated Ph.D. students interested in <strong>Geometric Learning and Control, Data-Driven Decision-Making, and Mathematical Foundations of Machine Learning</strong>. I anticipate recruiting students primarily during the regular application cycle in <strong>December for coming Fall</strong> admission.</p>
 
 <p>Applicants should possess a strong mathematical background and hold a B.S. or M.S. degree in a related field, including (but not limited to) <strong>Mathematics, Applied Mathematics, Computer Science, Electrical Engineering, Mechanical Engineering, Aerospace Engineering, or Systems Engineering</strong>.</p>
 
